@@ -32,12 +32,12 @@
 	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/sparklines.js"></script>
 	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/lines.js"></script>
 	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/areas.js"></script>
-	<script src="../../../../global_assets/js/demo_charts/pages/dashboard/light/donuts.js"></script>
-	<script src="../../../../global_assets/js/demo_charts/pages/dashboard/light/bars.js"></script>
-	<script src="../../../../global_assets/js/demo_charts/pages/dashboard/light/progress.js"></script>
-	<script src="../../../../global_assets/js/demo_charts/pages/dashboard/light/heatmaps.js"></script>
-	<script src="../../../../global_assets/js/demo_charts/pages/dashboard/light/pies.js"></script>
-	<script src="../../../../global_assets/js/demo_charts/pages/dashboard/light/bullets.js"></script>
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/donuts.js"></script>
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/bars.js"></script>
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/progress.js"></script>
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/heatmaps.js"></script>
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/pies.js"></script>
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/bullets.js"></script>
 	<!-- /theme JS files -->
 
 

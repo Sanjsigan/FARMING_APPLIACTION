@@ -4,6 +4,46 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DashBoard</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
+    <link href="http://demo.interface.club/limitless/demo/Template/global_assets/css/icons/icomoon/styles.min.css" type="text/css">
+    <link href="http://demo.interface.club/limitless/demo/Template/layout_1/LTR/default/full/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="http://demo.interface.club/limitless/demo/Template/layout_1/LTR/default/full/assets/css/bootstrap_limitless.min.css" rel="stylesheet" type="text/css">
+    <link href="http://demo.interface.club/limitless/demo/Template/layout_1/LTR/default/full/assets/css/bootstrap_limitless.min.css" rel="stylesheet" type="text/css">
+    <link href="http://demo.interface.club/limitless/demo/Template/layout_1/LTR/default/full/assets/css/layout.min.css" rel="stylesheet" type="text/css">
+	<link href="http://demo.interface.club/limitless/demo/Template/layout_1/LTR/default/full/assets/css/components.min.css" rel="stylesheet" type="text/css">
+	<link href="http://demo.interface.club/limitless/demo/Template/layout_1/LTR/default/full/assets/css/colors.min.css" rel="stylesheet" type="text/css">
+
+     <!-- Core JS files -->
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/main/jquery.min.js"></script>
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/main/bootstrap.bundle.min.js"></script>
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/plugins/loaders/blockui.min.js"></script>
+	<!-- /core JS files -->
+
+   <!-- Theme JS files -->
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/plugins/visualization/d3/d3.min.js"></script>
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/plugins/visualization/d3/d3_tooltip.js"></script>
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/plugins/forms/styling/switchery.min.js"></script>
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/plugins/ui/moment/moment.min.js"></script>
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/plugins/pickers/daterangepicker.js"></script>
+
+    <script src="http://demo.interface.club/limitless/demo/Template/layout_1/LTR/default/full/assets/js/app.js"></script>
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_pages/dashboard.js"></script>
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/streamgraph.js"></script>
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/sparklines.js"></script>
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/lines.js"></script>
+	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/areas.js"></script>
+	<script src="../../../../global_assets/js/demo_charts/pages/dashboard/light/donuts.js"></script>
+	<script src="../../../../global_assets/js/demo_charts/pages/dashboard/light/bars.js"></script>
+	<script src="../../../../global_assets/js/demo_charts/pages/dashboard/light/progress.js"></script>
+	<script src="../../../../global_assets/js/demo_charts/pages/dashboard/light/heatmaps.js"></script>
+	<script src="../../../../global_assets/js/demo_charts/pages/dashboard/light/pies.js"></script>
+	<script src="../../../../global_assets/js/demo_charts/pages/dashboard/light/bullets.js"></script>
+	<!-- /theme JS files -->
+
+
+
+
+
 </head>
 <body>
 <div class="navbar navbar-expand-md navbar-dark">

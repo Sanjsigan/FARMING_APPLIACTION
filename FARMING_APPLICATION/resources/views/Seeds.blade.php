@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>Seeds Details</title>
    
    <link rel="stylesheet" href="css/Seeds.css">
     <link href="http://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
@@ -694,49 +694,318 @@
 
             <!-- Content area -->
             <div class="content">
+            
+            <header class="jumbotron my-4">
+      <h2 class="display-3">Welcome To SJ Farming</h2>
+      <p class="lead">For this page about you can get some information OF SEEDS..</p>
+     
+    </header>
 
-            <ul class="gallery_box">
-	<li>
-		<a href="#0"><img src="https://picsum.photos/600/700/?random">
-		<div class="box_data">
-			<span>Ravi With Bike</span>
-		</div></a>
-	</li>
-		<li>
-		<a href="#0"><img src="https://picsum.photos/600/701/?random">
-		<div class="box_data">
-			<span>Ravi Singh</span>
-		</div></a>
-	</li>
-		<li>
-		<a href="#0"><img src="https://picsum.photos/600/702/?random">
-		<div class="box_data">
-			<span>White wall</span>
-		</div></a>
-	</li>
-			<li>
-		<a href="#0"><img src="https://picsum.photos/600/703/?random">
-		<div class="box_data">
-			<span>Green Tree</span>
-		</div></a>
-	</li>
-			<li style="    position: relative;
-    top: -134px;">
-		<a href="#0"><img src="https://picsum.photos/600/704/?random">
-		<div class="box_data">
-			<span>Blue</span>
-		</div></a>
-	</li>
-			<li>
-		<a href="#0"><img src="https://picsum.photos/600/705/?random">
-		<div class="box_data">
-			<span>Ravi</span>
-		</div></a>
-	</li>
-	
-</ul>
+    <!-- Page Features -->
+     <h4 class="display-3">Details OF seeds</h4>
+    <div class="row text-center">
 
+      <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card h-100">
+          <img class="card-img-top" src= "img/pethuru.jpg">
+          <div class="card-body">
+            <h4 class="card-title">Pethurushan</h4>
+
+          </div>
+          <div class="card-footer">
+          <table class="table table-dark">
+        <thead>
+            <tr>
+
+                <th scope="col">Last</th>
+                <th scope="col">Handle</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+
+                <td>Otto</td>
+                <td>@mdo</td>
+            </tr>
+            <tr>
+
+                <td>Thornton</td>
+                <td>@fat</td>
+            </tr>
+            <tr>
+
+                <td>the Bird</td>
+                <td>@twitter</td>
+            </tr>
+        </tbody>
+    </table>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card h-100">
+          <img class="card-img-top" src="img/vinthusha.jpg" alt="">
+          <div class="card-body">
+            <h4 class="card-title">Vinthusha</h4>
+          
+          </div>
+          <div class="card-footer">
+          <table class="table table-dark">
+        <thead>
+            <tr>
+
+                <th scope="col">Last</th>
+                <th scope="col">Handle</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+
+                <td>Otto</td>
+                <td>@mdo</td>
+            </tr>
+            <tr>
+
+                <td>Thornton</td>
+                <td>@fat</td>
+            </tr>
+            <tr>
+
+                <td>the Bird</td>
+                <td>@twitter</td>
+            </tr>
+        </tbody>
+    </table>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card h-100">
+          <img class="card-img-top" src="img/mathu.jpg" alt="">
+          <div class="card-body">
+            <h4 class="card-title">Mathunujan</h4>
+            
+          </div>
+          <div class="card-footer">
+          <table class="table table-dark">
+        <thead>
+            <tr>
+
+                <th scope="col">Last</th>
+                <th scope="col">Handle</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+
+                <td>Otto</td>
+                <td>@mdo</td>
+            </tr>
+            <tr>
+
+                <td>Thornton</td>
+                <td>@fat</td>
+            </tr>
+            <tr>
+
+                <td>the Bird</td>
+                <td>@twitter</td>
+            </tr>
+        </tbody>
+    </table>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card h-100">
+          <img class="card-img-top" src="img/sanjsi.jpg" alt="">
+          <div class="card-body">
+            <h4 class="card-title">Sanjsigan</h4>
+           
+          </div>
+          <div class="card-footer">
+          <table class="table table-dark">
+        <thead>
+            <tr>
+
+                <th scope="col">Last</th>
+                <th scope="col">Handle</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+
+                <td>Otto</td>
+                <td>@mdo</td>
+            </tr>
+            <tr>
+
+                <td>Thornton</td>
+                <td>@fat</td>
+            </tr>
+            <tr>
+
+                <td>the Bird</td>
+                <td>@twitter</td>
+            </tr>
+        </tbody>
+    </table>
+          </div>
+        </div>
             </div>
+            <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card h-100">
+          <img class="card-img-top" src="img/vinthusha.jpg" alt="">
+          <div class="card-body">
+            <h4 class="card-title">Vinthusha</h4>
+          
+          </div>
+          <div class="card-footer">
+          <table class="table table-dark">
+        <thead>
+            <tr>
+
+                <th scope="col">Last</th>
+                <th scope="col">Handle</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+
+                <td>Otto</td>
+                <td>@mdo</td>
+            </tr>
+            <tr>
+
+                <td>Thornton</td>
+                <td>@fat</td>
+            </tr>
+            <tr>
+
+                <td>the Bird</td>
+                <td>@twitter</td>
+            </tr>
+        </tbody>
+    </table>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card h-100">
+          <img class="card-img-top" src="img/mathu.jpg" alt="">
+          <div class="card-body">
+            <h4 class="card-title">Mathunujan</h4>
+            
+          </div>
+          <div class="card-footer">
+          <table class="table table-dark">
+        <thead>
+            <tr>
+
+                <th scope="col">Last</th>
+                <th scope="col">Handle</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+
+                <td>Otto</td>
+                <td>@mdo</td>
+            </tr>
+            <tr>
+
+                <td>Thornton</td>
+                <td>@fat</td>
+            </tr>
+            <tr>
+
+                <td>the Bird</td>
+                <td>@twitter</td>
+            </tr>
+        </tbody>
+    </table>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card h-100">
+          <img class="card-img-top" src="img/vinthusha.jpg" alt="">
+          <div class="card-body">
+            <h4 class="card-title">Vinthusha</h4>
+          
+          </div>
+          <div class="card-footer">
+          <table class="table table-dark">
+        <thead>
+            <tr>
+
+                <th scope="col">Last</th>
+                <th scope="col">Handle</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+
+                <td>Otto</td>
+                <td>@mdo</td>
+            </tr>
+            <tr>
+
+                <td>Thornton</td>
+                <td>@fat</td>
+            </tr>
+            <tr>
+
+                <td>the Bird</td>
+                <td>@twitter</td>
+            </tr>
+        </tbody>
+    </table>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card h-100">
+          <img class="card-img-top" src="img/mathu.jpg" alt="">
+          <div class="card-body">
+            <h4 class="card-title">Mathunujan</h4>
+            
+          </div>
+          <div class="card-footer">
+          <table class="table table-dark">
+        <thead>
+            <tr>
+
+                <th scope="col">Last</th>
+                <th scope="col">Handle</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+
+                <td>Otto</td>
+                <td>@mdo</td>
+            </tr>
+            <tr>
+
+                <td>Thornton</td>
+                <td>@fat</td>
+            </tr>
+            <tr>
+
+                <td>the Bird</td>
+                <td>@twitter</td>
+            </tr>
+        </tbody>
+    </table>
+          </div>
+        </div>
+      </div>
             <!-- /content area -->
 
 

@@ -3,9 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>Soil Information</title>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
     <link href="http://demo.interface.club/limitless/demo/Template/global_assets/css/icons/icomoon/styles.min.css" type="text/css">
     <link href="http://demo.interface.club/limitless/demo/Template/layout_1/LTR/default/full/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -267,6 +268,7 @@
                         <img src="../../../../global_assets/images/demo/users/face11.jpg" class="rounded-circle mr-2" height="34" alt="">
                         <span>Victoria</span>
                     </a>
+
                     <div class="dropdown-menu dropdown-menu-right">
                         <a href="#" class="dropdown-item"><i class="icon-user-plus"></i> My profile</a>
                         <a href="#" class="dropdown-item"><i class="icon-coins"></i> My balance</a>
@@ -581,57 +583,41 @@
                                     </span>
                             </a>
                         </li>
-
                         <li class="nav-item nav-item-submenu">
                             <a href="#" class="nav-link "><i class="icon-copy"></i> <span>Main Part</span></a>
 
                             <ul class="nav nav-group-sub" data-submenu-title="Layouts">
                                 <li class="nav-item"><a href="/Seeds" class="nav-link active">Details of Seeds</a></li>
-                                <li class="nav-item"><a href="/soil" class="nav-link">Detils of Soil</a></li>
+                                <li class="nav-item"><a href="#" class="nav-link">Detils of Soil</a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">Details of water flow methods</a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">Details of Crop Insecticide</a></li>
 
                             </ul>
                         </li>
+
                         <!-- /main -->
 
                         <!-- Forms -->
                         <li class="nav-item-header">
-                            <div class="text-uppercase font-size-xs line-height-xs">User</div> <i class="icon-menu" title="Forms"></i></li>
-                            <li class="nav-item">
-                            <a href="index.html" class="nav-link">
-                                <i class="icon-home4"></i>
-                                <span>
-                                       Add My information
-                                    </span>
-                            </a>
-                        </li>
-
-                            <li class="nav-item nav-item-submenu">
-                            <a href="#" class="nav-link "><i class="icon-copy"></i> <span>user farming</span></a>
-
-                            <ul class="nav nav-group-sub" data-submenu-title="Layouts">
-                                <li class="nav-item"><a href="/Seeds" class="nav-link active">Add Seeds Produces</a></li>
-                                <li class="nav-item"><a href="/soil" class="nav-link"> Add Paddy Products</a></li>
-                                <li class="nav-item"><a href="#" class="nav-link">Add Fruit products</a></li>
-                                <li class="nav-item"><a href="#" class="nav-link">Add Vegetable products</a></li>
-                                <li class="nav-item"><a href="#" class="nav-link">Add Tuber products</a></li>
-
-                            </ul>
-                        </li>
+                            <div class="text-uppercase font-size-xs line-height-xs">Forms</div> <i class="icon-menu" title="Forms"></i></li>
                         <li class="nav-item nav-item-submenu">
-                            <a href="#" class="nav-link "><i class="icon-copy"></i> <span>Farming methods</span></a>
-
-                            <ul class="nav nav-group-sub" data-submenu-title="Layouts">
-                                <li class="nav-item"><a href="/Seeds" class="nav-link active">Add Water flows Methods </a></li>
-                                <li class="nav-item"><a href="/soil" class="nav-link"> Add soil Details</a></li>
-                                <li class="nav-item"><a href="/soil" class="nav-link"> Add sinister pesticide Details</a></li>
-                           
-
+                            <a href="#" class="nav-link"><i class="icon-pencil3"></i> <span>Form components</span></a>
+                            <ul class="nav nav-group-sub" data-submenu-title="Form components">
+                                <li class="nav-item"><a href="form_inputs.html" class="nav-link">Basic inputs</a></li>
+                                <li class="nav-item"><a href="form_checkboxes_radios.html" class="nav-link">Checkboxes &amp; radios</a></li>
+                                <li class="nav-item"><a href="form_select2.html" class="nav-link">Select2 selects</a></li>
+                                <li class="nav-item"><a href="form_multiselect.html" class="nav-link">Bootstrap multiselect</a></li>
+                                <li class="nav-item"><a href="form_input_groups.html" class="nav-link">Input groups</a></li>
+                                <li class="nav-item"><a href="form_controls_extended.html" class="nav-link">Extended controls</a></li>
+                                <li class="nav-item"><a href="form_floating_labels.html" class="nav-link">Floating labels</a></li>
+                                <li class="nav-item"><a href="form_tag_inputs.html" class="nav-link">Tag inputs</a></li>
+                                <li class="nav-item"><a href="form_dual_listboxes.html" class="nav-link">Dual Listboxes</a></li>
+                                <li class="nav-item"><a href="form_validation.html" class="nav-link">Validation</a></li>
+                                <li class="nav-item"><a href="form_wizard.html" class="nav-link">Form wizard</a></li>
+                                <li class="nav-item"><a href="form_actions.html" class="nav-link">Form actions</a></li>
+                                <li class="nav-item"><a href="form_inputs_grid.html" class="nav-link">Inputs grid</a></li>
                             </ul>
                         </li>
-                        
-
 
                         <!-- /page kits -->
 
@@ -659,25 +645,33 @@
 
                     <div class="header-elements d-none">
                         <div class="d-flex justify-content-center">
-                            <a href="#" class="btn btn-link btn-float text-default"><i class="icon-bars-alt text-primary"></i><span> Customer Information</span></a>
-                            <a href="#" class="btn btn-link btn-float text-default"><i class="icon-calculator text-primary"></i> <span>Market Information</span></a>
-                           
+                            <a href="#" class="btn btn-link btn-float text-default"><i class="icon-bars-alt text-primary"></i><span>Statistics</span></a>
+                            <a href="#" class="btn btn-link btn-float text-default"><i class="icon-calculator text-primary"></i> <span>Invoices</span></a>
+                            <a href="#" class="btn btn-link btn-float text-default"><i class="icon-calendar5 text-primary"></i> <span>Schedule</span></a>
                         </div>
                     </div>
                 </div>
 
                 <div class="breadcrumb-line breadcrumb-line-light header-elements-md-inline">
                     <div class="d-flex">
+                        <div class="breadcrumb">
+                            <a href="index.html" class="breadcrumb-item"><i class="icon-home2 mr-2"></i> Home</a>
+                            <span class="breadcrumb-item active">Dashboard</span>
+                        </div>
 
                         <a href="#" class="header-elements-toggle text-default d-md-none"><i class="icon-more"></i></a>
                     </div>
 
                     <div class="header-elements d-none">
                         <div class="breadcrumb justify-content-center">
-                         
+                            <a href="#" class="breadcrumb-elements-item">
+                                <i class="icon-comment-discussion mr-2"></i> Support
+                            </a>
 
                             <div class="breadcrumb-elements-item dropdown p-0">
-                               
+                                <a href="#" class="breadcrumb-elements-item dropdown-toggle" data-toggle="dropdown">
+                                    <i class="icon-gear mr-2"></i> Settings
+                                </a>
 
                                 <div class="dropdown-menu dropdown-menu-right">
                                     <a href="#" class="dropdown-item"><i class="icon-user-lock"></i> Account security</a>

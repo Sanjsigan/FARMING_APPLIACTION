@@ -14,3 +14,6 @@ Route::get('/Seeds', function () {
 Route::get('/Soil', function () {
     return view('Soil');
 });
+Route::get('/members', function () {
+    return view('Members');
+});

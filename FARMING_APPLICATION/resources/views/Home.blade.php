@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
+    <link rel="stylesheet" href="https://colorlib.com/preview/theme/farmie/style.css">
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
@@ -611,7 +612,7 @@
                             <a href="#" class="nav-link "><i class="icon-copy"></i> <span>user farming</span></a>
 
                             <ul class="nav nav-group-sub" data-submenu-title="Layouts">
-                                <li class="nav-item"><a href="/Seeds" class="nav-link active">Add Seeds Produces</a></li>
+                                <li class="nav-item"><a href="#" class="nav-link active">Add Seeds Produces</a></li>
                                 <li class="nav-item"><a href="/soil" class="nav-link"> Add Paddy Products</a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">Add Fruit products</a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">Add Vegetable products</a></li>

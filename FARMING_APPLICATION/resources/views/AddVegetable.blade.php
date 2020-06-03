@@ -1,65 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Members Details</title>
-    <link rel="stylesheet" href="https://colorlib.com/preview/theme/farmie/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-   <link rel="stylesheet" href="css/Seeds.css">
-    <link href="http://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-    <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
+    <title>Add Vegetable</title>
+    
+    <!-- /theme JS files -->
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
     <link href="http://demo.interface.club/limitless/demo/Template/global_assets/css/icons/icomoon/styles.min.css" type="text/css">
+
     <link href="http://demo.interface.club/limitless/demo/Template/layout_1/LTR/default/full/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="http://demo.interface.club/limitless/demo/Template/layout_1/LTR/default/full/assets/css/bootstrap_limitless.min.css" rel="stylesheet" type="text/css">
-    <link href="http://demo.interface.club/limitless/demo/Template/layout_1/LTR/default/full/assets/css/bootstrap_limitless.min.css" rel="stylesheet" type="text/css">
     <link href="http://demo.interface.club/limitless/demo/Template/layout_1/LTR/default/full/assets/css/layout.min.css" rel="stylesheet" type="text/css">
-	<link href="http://demo.interface.club/limitless/demo/Template/layout_1/LTR/default/full/assets/css/components.min.css" rel="stylesheet" type="text/css">
+    <link href="http://demo.interface.club/limitless/demo/Template/layout_1/LTR/default/full/assets/css/components.min.css" rel="stylesheet" type="text/css">
 	<link href="http://demo.interface.club/limitless/demo/Template/layout_1/LTR/default/full/assets/css/colors.min.css" rel="stylesheet" type="text/css">
 
+    <script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/main/jquery.min.js"></script>
+    <script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/main/bootstrap.bundle.min.js"></script>
+    <script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/plugins/loaders/blockui.min.js"></script> 
 
+    <!-- Theme JS files -->
+    <script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/plugins/forms/selects/select2.min.js"></script>
+    <script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/plugins/forms/styling/uniform.min.js"></script>
 
-
-     <!-- Core JS files -->
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/main/jquery.min.js"></script>
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/main/bootstrap.bundle.min.js"></script>
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/plugins/loaders/blockui.min.js"></script>
-	<!-- /core JS files -->
-
-   <!-- Theme JS files -->
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/plugins/visualization/d3/d3.min.js"></script>
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/plugins/visualization/d3/d3_tooltip.js"></script>
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/plugins/forms/styling/switchery.min.js"></script>
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/plugins/ui/moment/moment.min.js"></script>
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/plugins/pickers/daterangepicker.js"></script>
 
     <script src="http://demo.interface.club/limitless/demo/Template/layout_1/LTR/default/full/assets/js/app.js"></script>
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_pages/dashboard.js"></script>
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/streamgraph.js"></script>
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/sparklines.js"></script>
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/lines.js"></script>
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/areas.js"></script>
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/donuts.js"></script>
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/bars.js"></script>
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/progress.js"></script>
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/heatmaps.js"></script>
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/pies.js"></script>
-	<script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_charts/pages/dashboard/light/bullets.js"></script>
-	<script src='https://kit.fontawesome.com/a076d05399.js'></script>
-	<!-- /theme JS files -->
-
-
+    <script src="http://demo.interface.club/limitless/demo/Template/global_assets/js/demo_pages/form_layouts.js"></script>
 
 
 
 </head>
+
 <body>
-<!-- Main navbar -->
-<div class="navbar navbar-expand-md navbar-dark">
+    <!-- Main navbar -->
+    <div class="navbar navbar-expand-md navbar-dark">
         <div class="navbar-brand">
             <a href="index.html" class="d-inline-block">
                 <img src="img/logoSJ.png" style="width:150px;height:50px;" alt="">
@@ -276,21 +251,21 @@
                         <img src="../../../../global_assets/images/demo/users/face11.jpg" class="rounded-circle mr-2" height="34" alt="">
                         <span>Victoria</span>
                     </a>
-
                     <div class="dropdown-menu dropdown-menu-right">
                         <a href="#" class="dropdown-item"><i class="icon-user-plus"></i> My profile</a>
                         <a href="#" class="dropdown-item"><i class="icon-coins"></i> My balance</a>
                         <a href="#" class="dropdown-item"><i class="icon-comment-discussion"></i> Messages <span class="badge badge-pill bg-blue ml-auto">58</span></a>
                         <div class="dropdown-divider"></div>
                         <a href="#" class="dropdown-item"><i class="icon-cog5"></i> Account settings</a>
-                        <a href="#" class="dropdown-item"><i class="icon-switch2"></i> Logout</a><div class="navbar navbar-expand-md navbar-dark">
+                        <a href="#" class="dropdown-item"><i class="icon-switch2"></i> Logout</a>
+                        <div class="navbar navbar-expand-md navbar-dark">
                             <div class="navbar-brand">
                                 <a href="index.html" class="d-inline-block">
                                     <img src="img/logoSJ.png" style="width:150px;height:50px;" alt="">
                                 </a>
                             </div>
 
-                            <div class="d-md-none" >
+                            <div class="d-md-none">
                                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-mobile">
                                     <i class="icon-tree5"></i>
                                 </button>
@@ -303,7 +278,7 @@
                                 <ul class="navbar-nav">
                                     <li class="nav-item">
                                         <a href="#" class="navbar-nav-link sidebar-control sidebar-main-toggle d-none d-md-block">
-                                        <i class="fa fa-gears" style="font-size:36px"></i>
+                                            <i class="fa fa-gears" style="font-size:36px"></i>
                                         </a>
                                     </li>
 
@@ -314,7 +289,7 @@
                                 <ul class="navbar-nav">
                                     <li class="nav-item dropdown">
                                         <a href="#" class="navbar-nav-link dropdown-toggle caret-0" data-toggle="dropdown">
-                                        <i class="fa fa-child" style="font-size:36px"></i>
+                                            <i class="fa fa-child" style="font-size:36px"></i>
                                             <span class="d-md-none ml-2">Users</span>
                                         </a>
 
@@ -392,7 +367,7 @@
 
                                     <li class="nav-item dropdown">
                                         <a href="#" class="navbar-nav-link dropdown-toggle caret-0" data-toggle="dropdown">
-                                        <i style="font-size:24px" class="fa">&#xf0a2;</i>
+                                            <i style="font-size:24px" class="fa">&#xf0a2;</i>
                                             <span class="d-md-none ml-2">Messages</span>
                                             <span class="badge badge-pill bg-warning-400 ml-auto ml-md-0">2</span>
                                         </a>
@@ -522,6 +497,8 @@
 
 
     <!-- Page content -->
+
+
     <div class="page-content">
 
         <!-- Main sidebar -->
@@ -591,18 +568,18 @@
                                     </span>
                             </a>
                         </li>
+
                         <li class="nav-item nav-item-submenu">
                             <a href="#" class="nav-link "><i class="icon-copy"></i> <span>Main Part</span></a>
 
                             <ul class="nav nav-group-sub" data-submenu-title="Layouts">
-                                <li class="nav-item"><a href="#" class="nav-link active">Details of Seeds</a></li>
-                                <li class="nav-item"><a href="#" class="nav-link">Detils of Soil</a></li>
+                                <li class="nav-item"><a href="/Seeds" class="nav-link active">Details of Seeds</a></li>
+                                <li class="nav-item"><a href="/soil" class="nav-link">Detils of Soil</a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">Details of water flow methods</a></li>
                                 <li class="nav-item"><a href="#" class="nav-link">Details of Crop Insecticide</a></li>
 
                             </ul>
                         </li>
-
                         <!-- /main -->
 
                         <!-- Forms -->
@@ -642,6 +619,7 @@
                         </li>
 
 
+
                         <!-- /page kits -->
 
                     </ul>
@@ -659,269 +637,213 @@
         <div class="content-wrapper">
 
             <!-- Page header -->
-      
+            <div class="page-header page-header-light">
+                <div class="page-header-content header-elements-md-inline">
+                    <div class="page-title d-flex">
+                        <h4><i class="icon-arrow-left52 mr-2"></i> <span class="font-weight-semibold">Home</span> - Dashboard</h4>
+                        <a href="#" class="header-elements-toggle text-default d-md-none"><i class="icon-more"></i></a>
+                    </div>
+
+                    <div class="header-elements d-none">
+                        <div class="d-flex justify-content-center">
+                            <a href="#" class="btn btn-link btn-float text-default"><i class="icon-bars-alt text-primary"></i><span> Customer Information</span></a>
+                            <a href="#" class="btn btn-link btn-float text-default"><i class="icon-calculator text-primary"></i> <span>Market Information</span></a>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="breadcrumb-line breadcrumb-line-light header-elements-md-inline">
+                    <div class="d-flex">
+
+                        <a href="#" class="header-elements-toggle text-default d-md-none"><i class="icon-more"></i></a>
+                    </div>
+
+                    <div class="header-elements d-none">
+                        <div class="breadcrumb justify-content-center">
+
+
+                            <div class="breadcrumb-elements-item dropdown p-0">
+
+
+                                <div class="dropdown-menu dropdown-menu-right">
+                                    <a href="#" class="dropdown-item"><i class="icon-user-lock"></i> Account security</a>
+                                    <a href="#" class="dropdown-item"><i class="icon-statistics"></i> Analytics</a>
+                                    <a href="#" class="dropdown-item"><i class="icon-accessibility"></i> Accessibility</a>
+                                    <div class="dropdown-divider"></div>
+                                    <a href="#" class="dropdown-item"><i class="icon-gear"></i> All settings</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <!-- /page header -->
 
 
             <!-- Content area -->
             <div class="content">
-            
-            
-            <section class="team" id="team">
-        <div class="container">
-            <div class="row">
-
-                <!-- section title -->
-                
-                <!-- /section title -->
-
-                <!-- team member -->
-                <div class="col-md-4 col-sm-6 ">
-                    <div class="team-member text-center">
-                        <div class="member-photo">
-                            <!-- member photo -->
-                            <img class="img-responsive" src="http://demo.themefisher.com/themefisher/bingo/images/client-logo/clients-1.jpg" alt="Meghna">
-                            <!-- /member photo -->
-
-                            <!-- member social profile -->
-                            <div class="mask">
-                                <ul class="clearfix">
-                                    <li><a href="#"><i class="tf-ion-social-facebook"></i></a></li>
-                                    <li><a href="#"><i class="tf-ion-social-twitter"></i></a></li>
-                                    <li><a href="#"><i class="tf-ion-social-google-outline"></i></a></li>
-                                    <li><a href="#"><i class="tf-ion-social-dribbble"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- /member social profile -->
-                        </div>
-
-                        <!-- member name & designation -->
-                        <div class="member-content">
-                            <h3>Michael Jonson</h3>
-                            <span>Head Of Marketing</span>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.</p>
-                        </div>
-                        <!-- /member name & designation -->
-
-                    </div>
-                </div>
-                <!-- end team member -->
-
-                <!-- team member -->
-                <div class="col-md-4 col-sm-6 ">
-                    <div class="team-member text-center">
-                        <div class="member-photo">
-                            <!-- member photo -->
-                            <img class="img-responsive" src="http://demo.themefisher.com/themefisher/bingo/images/client-logo/clients-1.jpg" alt="Meghna">
-                            <!-- /member photo -->
-
-                            <!-- member social profile -->
-                            <div class="mask">
-                                <ul class="clearfix">
-                                    <li><a href="#"><i class="tf-ion-social-facebook"></i></a></li>
-                                    <li><a href="#"><i class="tf-ion-social-twitter"></i></a></li>
-                                    <li><a href="#"><i class="tf-ion-social-google-outline"></i></a></li>
-                                    <li><a href="#"><i class="tf-ion-social-dribbble"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- /member social profile -->
-                        </div>
-
-                        <!-- member name & designation -->
-                        <div class="member-content">
-                            <h3>Michael Jonson</h3>
-                            <span>Web Developer</span>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.</p>
-                        </div>
-                        <!-- /member name & designation -->
-                    </div>
-                </div>
-                <!-- end team member -->
-
-                <!-- team member -->
-                <div class="col-md-4 col-sm-6 ">
-                    <div class="team-member text-center">
-                        <div class="member-photo">
-                            <!-- member photo -->
-                            <img class="img-responsive" src="http://demo.themefisher.com/themefisher/bingo/images/client-logo/clients-1.jpg" alt="Meghna">
-                            <!-- /member photo -->
-
-                            <!-- member social profile -->
-                            <div class="mask">
-                                <ul class="clearfix">
-                                    <li><a href="#"><i class="tf-ion-social-facebook"></i></a></li>
-                                    <li><a href="#"><i class="tf-ion-social-twitter"></i></a></li>
-                                    <li><a href="#"><i class="tf-ion-social-google-outline"></i></a></li>
-                                    <li><a href="#"><i class="tf-ion-social-dribbble"></i></a></li>
-                                </ul>
-                            </div>
-                            <!-- /member social profile -->
-                        </div>
-
-                        <!-- member name & designation -->
-                        <div class="member-content">
-                            <h3>Michael Jonson</h3>
-                            <span>Head Of Management</span>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.</p>
-                        </div>
-                        <!-- /member name & designation -->
-
-                    </div>
-                </div>
-                <!-- end team member -->
-            </div>
-            <!-- End row -->
-        </div>
-        <!-- End container -->
-    </section>
-                        
-                    </div>
-
-                    <nav>
-                        <ul class="pagination mb-0 mt-50">
-                            <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                            <li class="page-item"><a class="page-link" href="#">2</a></li>
-                            <li class="page-item"><a class="page-link" href="#"><i class="fa fa-angle-right"></i></a></li>
-                        </ul>
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <footer class="footer-area">
-
-        <div class="main-footer bg-img bg-overlay section-padding-80-0" style="background-image: url(img/bg-img/3.jpg);">
-            <div class="container">
+                <h1> Add Vegetable Products</h1>
                 <div class="row">
+                    <div class="col-md-6">
 
-                    <div class="col-12 col-sm-6 col-lg-3">
-                        <div class="footer-widget mb-80">
-                            <a href="#" class="foo-logo d-block mb-30"><img src="img/core-img/logo2.png" alt=""></a>
-                            <p>Lorem ipsum dolor sit amet, consecte stare adipiscing elit. In act honcus risus atiner Pellentesque risus.</p>
-                            <div class="contact-info">
-                                <p><i class="fa fa-map-pin" aria-hidden="true"></i><span>120 Raymond Rd, New York</span></p>
-                                <p><i class="fa fa-envelope" aria-hidden="true"></i><span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4c25222a23622829293e2f3e292d38253a290c2b212d2520622f2321">[email&#160;protected]</a></span></p>
-                                <p><i class="fa fa-phone" aria-hidden="true"></i><span>+84 223 9000</span></p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-12 col-sm-6 col-lg-3">
-                        <div class="footer-widget mb-80">
-                            <h5 class="widget-title">QUICK LINK</h5>
-
-                            <nav class="footer-widget-nav">
-                                <ul>
-                                    <li><a href="#">Purchase</a></li>                          
-                                    <li><a href="#">Marker Details</a></li>
-                                    <li><a href="#">Partners</a></li>
-                                    <li><a href="#">Reseantly Added</a></li>
-                       
-                                </ul>
-                            </nav>
-                        </div>
-                    </div>
-
-                    <div class="col-12 col-sm-6 col-lg-3">
-                        <div class="footer-widget mb-80">
-                            <h5 class="widget-title">RECENT NEWS</h5>
-
-                            <div class="single-recent-blog d-flex align-items-center">
-                                <div class="post-thumbnail">
-                                    <img src="img/bg-img/4.jpg" alt="">
-                                </div>
-                                <div class="post-content">
-                                    <a href="#" class="post-title">WA’s largest farming business on the market</a>
-                                    <div class="post-date">18 Aug 2018</div>
+                        <!-- Basic layout-->
+                        <div class="card">
+                            <div class="card-header header-elements-inline">
+                                <h5 class="card-title">Basic layout</h5>
+                                <div class="header-elements">
+                                    <div class="list-icons">
+                                        <a class="list-icons-item" data-action="collapse"></a>
+                                        <a class="list-icons-item" data-action="reload"></a>
+                                        <a class="list-icons-item" data-action="remove"></a>
+                                    </div>
                                 </div>
                             </div>
 
-                            <div class="single-recent-blog d-flex align-items-center">
-                                <div class="post-thumbnail">
-                                    <img src="img/bg-img/5.jpg" alt="">
-                                </div>
-                                <div class="post-content">
-                                    <a href="#" class="post-title">Beef retail prices hit a record</a>
-                                    <div class="post-date">18 Aug 2018</div>
-                                </div>
+                            <div class="card-body">
+                                <form action="#">
+                                    <div class="form-group row">
+                                        <label class="col-lg-3 col-form-label">Name:</label>
+                                        <div class="col-lg-9">
+                                            <input type="text" class="form-control" placeholder="Eugene Kopyov">
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group row">
+                                        <label class="col-lg-3 col-form-label">Password:</label>
+                                        <div class="col-lg-9">
+                                            <input type="password" class="form-control" placeholder="Your strong password">
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group row">
+                                        <label class="col-lg-3 col-form-label">Your state:</label>
+                                        <div class="col-lg-9">
+                                            <select class="form-control form-control-select2" data-fouc>
+												<optgroup label="Alaskan/Hawaiian Time Zone">
+													<option value="AK">Alaska</option>
+													<option value="HI">Hawaii</option>
+												</optgroup>
+												<optgroup label="Pacific Time Zone">
+													<option value="CA">California</option>
+													<option value="NV">Nevada</option>
+													<option value="WA">Washington</option>
+												</optgroup>
+												<optgroup label="Mountain Time Zone">
+													<option value="AZ">Arizona</option>
+													<option value="CO">Colorado</option>
+													<option value="WY">Wyoming</option>
+												</optgroup>
+												<optgroup label="Central Time Zone">
+													<option value="AL">Alabama</option>
+													<option value="AR">Arkansas</option>
+													<option value="KY">Kentucky</option>
+												</optgroup>
+												<optgroup label="Eastern Time Zone">
+													<option value="CT">Connecticut</option>
+													<option value="DE">Delaware</option>
+													<option value="FL">Florida</option>
+												</optgroup>
+											</select>
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group row">
+                                        <label class="col-lg-3 col-form-label">Gender:</label>
+                                        <div class="col-lg-9">
+                                            <div class="form-check form-check-inline">
+                                                <label class="form-check-label">
+													<input type="radio" class="form-input-styled" name="gender" checked data-fouc>
+													Male
+												</label>
+                                            </div>
+
+                                            <div class="form-check form-check-inline">
+                                                <label class="form-check-label">
+													<input type="radio" class="form-input-styled" name="gender" data-fouc>
+													Female
+												</label>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group row">
+                                        <label class="col-lg-3 col-form-label">Your avatar:</label>
+                                        <div class="col-lg-9">
+                                            <input type="file" class="form-input-styled" data-fouc>
+                                            <span class="form-text text-muted">Accepted formats: gif, png, jpg. Max file size 2Mb</span>
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group row">
+                                        <label class="col-lg-3 col-form-label">Tags:</label>
+                                        <div class="col-lg-9">
+                                            <select multiple="multiple" data-placeholder="Enter tags" class="form-control form-control-select2-icons" data-fouc>
+												<optgroup label="Services">
+													<option value="wordpress2" data-icon="wordpress2">Wordpress</option>
+													<option value="tumblr2" data-icon="tumblr2">Tumblr</option>
+													<option value="stumbleupon" data-icon="stumbleupon">Stumble upon</option>
+													<option value="pinterest2" data-icon="pinterest2">Pinterest</option>
+													<option value="lastfm2" data-icon="lastfm2">Lastfm</option>
+												</optgroup>
+												<optgroup label="File types">
+													<option value="pdf" data-icon="file-pdf">PDF</option>
+													<option value="word" data-icon="file-word">Word</option>
+													<option value="excel" data-icon="file-excel">Excel</option>
+													<option value="openoffice" data-icon="file-openoffice">Open office</option>
+												</optgroup>
+												<optgroup label="Browsers">
+													<option value="chrome" data-icon="chrome" selected>Chrome</option>
+													<option value="firefox" data-icon="firefox" selected>Firefox</option>
+													<option value="safari" data-icon="safari">Safari</option>
+													<option value="opera" data-icon="opera">Opera</option>
+													<option value="IE" data-icon="IE">IE</option>
+												</optgroup>
+											</select>
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group row">
+                                        <label class="col-lg-3 col-form-label">Your message:</label>
+                                        <div class="col-lg-9">
+                                            <textarea rows="5" cols="5" class="form-control" placeholder="Enter your message here"></textarea>
+                                        </div>
+                                    </div>
+
+                                    <div class="text-right">
+                                        <button type="submit" class="btn btn-primary">Submit form <i class="icon-paperplane ml-2"></i></button>
+                                    </div>
+                                </form>
                             </div>
                         </div>
+                        <!-- /basic layout -->
+
                     </div>
 
-                    <div class="col-12 col-sm-6 col-lg-3">
-                        <div class="footer-widget mb-80">
-                            <h5 class="widget-title">STAY CONNECTED</h5>
+                    <div class="col-md-6">
 
-                            <div class="footer-social-info">
-                                <a href="#">
-                                <i class="fa fa-facebook-official"></i>
-                                    <span>Facebook</span>
-                                </a>
-                                <a href="#">
-                                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                                    <span>Twitter</span>
-                                </a>
-                                <a href="#">
-                                    <i class="fa fa-pinterest" aria-hidden="true"></i>
-                                    <span>Pinterest</span>
-                                </a>
-                            </div>
-                        </div>
+                        <!-- Static mode -->
+
                     </div>
+                    <!-- /vertical form options -->
+
+
+                    <!-- Centered forms -->
+
+
                 </div>
+                <!-- /content area -->
+
+
+                <!-- Footer -->
+
+                <!-- /footer -->
+
             </div>
-        </div>
-
-        <div class="copywrite-area">
-            <div class="container">
-                <div class="copywrite-text">
-                    <div class="row align-items-center">
-
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-      
-      
-            <!-- /content area -->
-
-
-            <!-- Footer -->
-      
-            <!-- /footer -->
+            <!-- /main content -->
 
         </div>
-        <!-- /main content -->
-
-    </div>
-	<!-- /page content -->
+        <!-- /page content -->
 </body>
 
-<script src="https://colorlib.com/preview/theme/farmie/js/jquery.min.js" type="3fa6d77f850d91678d40838e-text/javascript"></script>
-
-<script src="https://colorlib.com/preview/theme/farmie/js/popper.min.js" type="3fa6d77f850d91678d40838e-text/javascript"></script>
-
-<script src="https://colorlib.com/preview/theme/farmie/js/bootstrap.min.js" type="3fa6d77f850d91678d40838e-text/javascript"></script>
-
-<script src="https://colorlib.com/preview/theme/farmie/js/owl.carousel.min.js" type="3fa6d77f850d91678d40838e-text/javascript"></script>
-
-<script src="https://colorlib.com/preview/theme/farmie/js/classynav.js" type="3fa6d77f850d91678d40838e-text/javascript"></script>
-
-<script src="https://colorlib.com/preview/theme/farmie/js/wow.min.js" type="3fa6d77f850d91678d40838e-text/javascript"></script>
-
-<script src="https://colorlib.com/preview/theme/farmie/js/jquery.sticky.js" type="3fa6d77f850d91678d40838e-text/javascript"></script>
-
-<script src="https://colorlib.com/preview/theme/farmie/js/jquery.magnific-popup.min.js" type="3fa6d77f850d91678d40838e-text/javascript"></script>
-
-<script src="https://colorlib.com/preview/theme/farmie/js/jquery.scrollup.min.js" type="3fa6d77f850d91678d40838e-text/javascript"></script>
-
-<script src="https://colorlib.com/preview/theme/farmie/js/jarallax.min.js" type="3fa6d77f850d91678d40838e-text/javascript"></script>
-
-<script src="https://colorlib.com/preview/theme/farmie/js/jarallax-video.min.js" type="3fa6d77f850d91678d40838e-text/javascript"></script>
-
-<script src="https://colorlib.com/preview/theme/farmie/js/active.js" type="3fa6d77f850d91678d40838e-text/javascript"></script>
 </html>

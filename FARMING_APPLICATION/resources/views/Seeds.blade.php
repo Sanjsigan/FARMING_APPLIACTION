@@ -604,25 +604,40 @@
 
                         <!-- Forms -->
                         <li class="nav-item-header">
-                            <div class="text-uppercase font-size-xs line-height-xs">Forms</div> <i class="icon-menu" title="Forms"></i></li>
+                            <div class="text-uppercase font-size-xs line-height-xs">User</div> <i class="icon-menu" title="Forms"></i></li>
+                        <li class="nav-item">
+                            <a href="index.html" class="nav-link">
+                                <i class="icon-home4"></i>
+                                <span>
+                                       Add My information
+                                    </span>
+                            </a>
+                        </li>
+
                         <li class="nav-item nav-item-submenu">
-                            <a href="#" class="nav-link"><i class="icon-pencil3"></i> <span>Form components</span></a>
-                            <ul class="nav nav-group-sub" data-submenu-title="Form components">
-                                <li class="nav-item"><a href="form_inputs.html" class="nav-link">Basic inputs</a></li>
-                                <li class="nav-item"><a href="form_checkboxes_radios.html" class="nav-link">Checkboxes &amp; radios</a></li>
-                                <li class="nav-item"><a href="form_select2.html" class="nav-link">Select2 selects</a></li>
-                                <li class="nav-item"><a href="form_multiselect.html" class="nav-link">Bootstrap multiselect</a></li>
-                                <li class="nav-item"><a href="form_input_groups.html" class="nav-link">Input groups</a></li>
-                                <li class="nav-item"><a href="form_controls_extended.html" class="nav-link">Extended controls</a></li>
-                                <li class="nav-item"><a href="form_floating_labels.html" class="nav-link">Floating labels</a></li>
-                                <li class="nav-item"><a href="form_tag_inputs.html" class="nav-link">Tag inputs</a></li>
-                                <li class="nav-item"><a href="form_dual_listboxes.html" class="nav-link">Dual Listboxes</a></li>
-                                <li class="nav-item"><a href="form_validation.html" class="nav-link">Validation</a></li>
-                                <li class="nav-item"><a href="form_wizard.html" class="nav-link">Form wizard</a></li>
-                                <li class="nav-item"><a href="form_actions.html" class="nav-link">Form actions</a></li>
-                                <li class="nav-item"><a href="form_inputs_grid.html" class="nav-link">Inputs grid</a></li>
+                            <a href="#" class="nav-link "><i class="icon-copy"></i> <span>user farming</span></a>
+
+                            <ul class="nav nav-group-sub" data-submenu-title="Layouts">
+                            <li class="nav-item"><a href="/addseeds" class="nav-link active">Add Seeds Produces</a></li>
+                                <li class="nav-item"><a href="/addpaddy" class="nav-link"> Add Paddy Products</a></li>
+                                <li class="nav-item"><a href="/addfruits" class="nav-link">Add Fruit products</a></li>
+                                <li class="nav-item"><a href="/addvegetable" class="nav-link">Add Vegetable products</a></li>
+                                <li class="nav-item"><a href="/addtuber" class="nav-link">Add Tuber products</a></li>
+
                             </ul>
                         </li>
+                        <li class="nav-item nav-item-submenu">
+                            <a href="#" class="nav-link "><i class="icon-copy"></i> <span>Farming methods</span></a>
+
+                            <ul class="nav nav-group-sub" data-submenu-title="Layouts">
+                                <li class="nav-item"><a href="/Seeds" class="nav-link active">Add Water flows Methods </a></li>
+                                <li class="nav-item"><a href="/soil" class="nav-link"> Add soil Details</a></li>
+                                <li class="nav-item"><a href="/soil" class="nav-link"> Add sinister pesticide Details</a></li>
+
+
+                            </ul>
+                        </li>
+
 
                         <!-- /page kits -->
 

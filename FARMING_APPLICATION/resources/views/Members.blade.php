@@ -680,7 +680,7 @@
                     <div class="team-member text-center">
                         <div class="member-photo">
                             <!-- member photo -->
-                            <img class="img-responsive" src="http://demo.themefisher.com/themefisher/bingo/images/client-logo/clients-1.jpg" alt="Meghna">
+                            <img class="img-responsive" src="memimg/pethuru.jpg" alt="Meghna">
                             <!-- /member photo -->
 
                             <!-- member social profile -->
@@ -694,12 +694,47 @@
                             </div>
                             <!-- /member social profile -->
                         </div>
-
+                        <a class="btn btn-primary" href="/Seeds" role="button">View new Products</a>
                         <!-- member name & designation -->
                         <div class="member-content">
-                            <h3>Michael Jonson</h3>
-                            <span>Head Of Marketing</span>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.</p>
+                        <div class="product-desc text-center pt-4">
+                    
+                      
+                                    <table class="table table-dark">
+                                    
+                                        <thead>
+                                            <tr>
+
+                                            <th scope="col">Details</th>
+                                                <th scope="col">Out put</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+
+                                                <td>Name</td>
+                                                <td>@mdo</td>
+                                            </tr>
+                                            <tr>
+
+                                                <td>Address</td>
+                                                <td>@fat</td>
+                                            </tr>
+                                            <tr>
+
+                                                <td>Mobile</td>
+                                                <td>@twitter</td>
+                                            </tr>
+                                            <tr>
+                                            <td>Email</td>
+                                              <td>@twitter</td>
+                                                   </tr>
+
+                                        </tbody>
+                                        
+                                    </table>
+
+                                </div>
                         </div>
                         <!-- /member name & designation -->
 
@@ -712,7 +747,7 @@
                     <div class="team-member text-center">
                         <div class="member-photo">
                             <!-- member photo -->
-                            <img class="img-responsive" src="http://demo.themefisher.com/themefisher/bingo/images/client-logo/clients-1.jpg" alt="Meghna">
+                            <img class="img-responsive" src="/memimg/Akkachi.jpg" alt="Meghna">
                             <!-- /member photo -->
 
                             <!-- member social profile -->
@@ -726,12 +761,45 @@
                             </div>
                             <!-- /member social profile -->
                         </div>
-
+                        <a class="btn btn-primary" href="/Seeds" role="button">View new Products</a>
                         <!-- member name & designation -->
                         <div class="member-content">
-                            <h3>Michael Jonson</h3>
-                            <span>Web Developer</span>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.</p>
+                        <div class="product-desc text-center pt-4">
+                        <table class="table table-dark">
+                                    
+                                    <thead>
+                                        <tr>
+
+                                        <th scope="col">Details</th>
+                                            <th scope="col">Out put</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+
+                                            <td>Name</td>
+                                            <td>@mdo</td>
+                                        </tr>
+                                        <tr>
+
+                                            <td>Address</td>
+                                            <td>@fat</td>
+                                        </tr>
+                                        <tr>
+
+                                            <td>Mobile</td>
+                                            <td>@twitter</td>
+                                        </tr>
+                                        <tr>
+                                        <td>Email</td>
+                                          <td>@twitter</td>
+                                               </tr>
+
+                                    </tbody>
+                                    
+                                </table>
+
+                                </div>
                         </div>
                         <!-- /member name & designation -->
                     </div>
@@ -743,7 +811,7 @@
                     <div class="team-member text-center">
                         <div class="member-photo">
                             <!-- member photo -->
-                            <img class="img-responsive" src="http://demo.themefisher.com/themefisher/bingo/images/client-logo/clients-1.jpg" alt="Meghna">
+                            <img class="img-responsive" src="/memimg/mathu.jpg" alt="Meghna">
                             <!-- /member photo -->
 
                             <!-- member social profile -->
@@ -757,12 +825,45 @@
                             </div>
                             <!-- /member social profile -->
                         </div>
-
+                        <a class="btn btn-primary" href="/Seeds" role="button">View new Products</a>
                         <!-- member name & designation -->
                         <div class="member-content">
-                            <h3>Michael Jonson</h3>
-                            <span>Head Of Management</span>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.</p>
+                        <div class="product-desc text-center pt-4">
+                        <table class="table table-dark">
+                                    
+                                    <thead>
+                                        <tr>
+
+                                        <th scope="col">Details</th>
+                                            <th scope="col">Out put</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+
+                                            <td>Name</td>
+                                            <td>@mdo</td>
+                                        </tr>
+                                        <tr>
+
+                                            <td>Address</td>
+                                            <td>@fat</td>
+                                        </tr>
+                                        <tr>
+
+                                            <td>Mobile</td>
+                                            <td>@twitter</td>
+                                        </tr>
+                                        <tr>
+                                        <td>Email</td>
+                                          <td>@twitter</td>
+                                               </tr>
+
+                                    </tbody>
+                                    
+                                </table>
+                              
+                                </div>
                         </div>
                         <!-- /member name & designation -->
 

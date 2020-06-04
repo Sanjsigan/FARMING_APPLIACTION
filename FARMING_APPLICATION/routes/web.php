@@ -8,7 +8,7 @@ Route::get('/welcome', function () {
 Route::get('/', function () {
     return view('Home');
 });
-Route::get('/seeds', function () {
+Route::get('/Seeds', function () {
     return view('Seeds');
 });
 Route::get('/soil', function () {

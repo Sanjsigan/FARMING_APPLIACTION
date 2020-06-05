@@ -5,11 +5,14 @@ use Illuminate\Support\Facades\Route;
 Route::get('/welcome', function () {
     return view('welcome');
 });
-Route::get('/', function () {
+Route::get('/home', function () {
     return view('Home');
+echo "yes its working";
+  
 });
 Route::get('/Seeds', function () {
     return view('Seeds');
+  
 });
 Route::get('/soil', function () {
     return view('Soil');
@@ -31,4 +34,7 @@ Route::get('/addvegetable', function () {
 });
 Route::get('/addtuber', function () {
     return view('AddTuber');
+});
+Route::get('/', function () {
+    return view('login');
 });

@@ -12,6 +12,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/rating.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
     <link href="http://demo.interface.club/limitless/demo/Template/global_assets/css/icons/icomoon/styles.min.css" type="text/css">
     <link href="http://demo.interface.club/limitless/demo/Template/layout_1/LTR/default/full/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -681,6 +683,7 @@
                         <div class="member-photo">
                             <!-- member photo -->
                             <img class="img-responsive" src="memimg/pethuru.jpg" alt="Meghna">
+                          
                             <!-- /member photo -->
 
                             <!-- member social profile -->
@@ -694,7 +697,12 @@
                             </div>
                             <!-- /member social profile -->
                         </div>
+                      
                         <a class="btn btn-primary" href="/Seeds" role="button">View new Products</a>
+                        <div class="rating"> <input type="radio" name="rating" value="5" id="5"><label for="5">☆</label> <input type="radio" name="rating" value="4" id="4"><label for="4">☆</label> <input type="radio" name="rating" value="3" id="3"><label for="3">☆</label> <input type="radio"
+            name="rating" value="2" id="2"><label for="2">☆</label>
+        <input type="radio" name="rating" value="1" id="1"><label for="1">☆</label>
+    </div>
                         <!-- member name & designation -->
                         <div class="member-content">
                         <div class="product-desc text-center pt-4">
@@ -762,6 +770,10 @@
                             <!-- /member social profile -->
                         </div>
                         <a class="btn btn-primary" href="/Seeds" role="button">View new Products</a>
+                        <div class="rating"> <input type="radio" name="rating" value="5" id="5"><label for="5">☆</label> <input type="radio" name="rating" value="4" id="4"><label for="4">☆</label> <input type="radio" name="rating" value="3" id="3"><label for="3">☆</label> <input type="radio"
+            name="rating" value="2" id="2"><label for="2">☆</label>
+        <input type="radio" name="rating" value="1" id="1"><label for="1">☆</label>
+    </div>
                         <!-- member name & designation -->
                         <div class="member-content">
                         <div class="product-desc text-center pt-4">
@@ -826,6 +838,10 @@
                             <!-- /member social profile -->
                         </div>
                         <a class="btn btn-primary" href="/Seeds" role="button">View new Products</a>
+                        <div class="rating"> <input type="radio" name="rating" value="5" id="5"><label for="5">☆</label> <input type="radio" name="rating" value="4" id="4"><label for="4">☆</label> <input type="radio" name="rating" value="3" id="3"><label for="3">☆</label> <input type="radio"
+            name="rating" value="2" id="2"><label for="2">☆</label>
+        <input type="radio" name="rating" value="1" id="1"><label for="1">☆</label>
+    </div>
                         <!-- member name & designation -->
                         <div class="member-content">
                         <div class="product-desc text-center pt-4">
@@ -1025,4 +1041,8 @@
 <script src="https://colorlib.com/preview/theme/farmie/js/jarallax-video.min.js" type="3fa6d77f850d91678d40838e-text/javascript"></script>
 
 <script src="https://colorlib.com/preview/theme/farmie/js/active.js" type="3fa6d77f850d91678d40838e-text/javascript"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
 </html>

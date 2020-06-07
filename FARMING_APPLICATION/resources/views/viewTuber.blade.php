@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Seeds Details</title>
+    <title>Tuber Details</title>
     <link rel="stylesheet" href="https://colorlib.com/preview/theme/farmie/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/Seeds.css">
@@ -709,7 +709,7 @@
                 </header>
 
                 <!-- Page Features -->
-                <h4 class="display-3">Details OF seeds</h4>
+                <h4 class="display-3">Details OF Tuber Products</h4>
                 <div class="row text-center">
 
                     <section class="shop-area section-padding-0-100">

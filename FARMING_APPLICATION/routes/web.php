@@ -38,3 +38,7 @@ Route::get('/addtuber', function () {
 Route::get('/', function () {
     return view('login');
 });
+Route::get('/profile', function () {
+    return view('Profile');
+});
+

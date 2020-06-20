@@ -721,21 +721,21 @@
                                             <tr>
 
                                                 <td>Name</td>
-                                                <td>@mdo</td>
+                                                <td></td>
                                             </tr>
                                             <tr>
 
                                                 <td>Address</td>
-                                                <td>@fat</td>
+                                                <td></td>
                                             </tr>
                                             <tr>
 
                                                 <td>Mobile</td>
-                                                <td>@twitter</td>
+                                                <td></td>
                                             </tr>
                                             <tr>
                                             <td>Email</td>
-                                              <td>@twitter</td>
+                                              <td></td>
                                                    </tr>
 
                                         </tbody>
@@ -790,21 +790,21 @@
                                         <tr>
 
                                             <td>Name</td>
-                                            <td>@mdo</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
 
                                             <td>Address</td>
-                                            <td>@fat</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
 
                                             <td>Mobile</td>
-                                            <td>@twitter</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                         <td>Email</td>
-                                          <td>@twitter</td>
+                                          <td></td>
                                                </tr>
 
                                     </tbody>
@@ -858,21 +858,21 @@
                                         <tr>
 
                                             <td>Name</td>
-                                            <td>@mdo</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
 
                                             <td>Address</td>
-                                            <td>@fat</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
 
                                             <td>Mobile</td>
-                                            <td>@twitter</td>
+                                            <td></td>
                                         </tr>
                                         <tr>
                                         <td>Email</td>
-                                          <td>@twitter</td>
+                                          <td></td>
                                                </tr>
 
                                     </tbody>
@@ -885,8 +885,11 @@
 
                     </div>
                 </div>
+
+                
                 <!-- end team member -->
             </div>
+            
             <!-- End row -->
         </div>
         <!-- End container -->
@@ -916,10 +919,10 @@
                     <div class="col-12 col-sm-6 col-lg-3">
                         <div class="footer-widget mb-80">
                             <a href="#" class="foo-logo d-block mb-30"><img src="img/core-img/logo2.png" alt=""></a>
-                            <p>Lorem ipsum dolor sit amet, consecte stare adipiscing elit. In act honcus risus atiner Pellentesque risus.</p>
+                           
                             <div class="contact-info">
                                 <p><i class="fa fa-map-pin" aria-hidden="true"></i><span>120 Raymond Rd, New York</span></p>
-                                <p><i class="fa fa-envelope" aria-hidden="true"></i><span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4c25222a23622829293e2f3e292d38253a290c2b212d2520622f2321">[email&#160;protected]</a></span></p>
+                                <p><i class="fa fa-envelope" aria-hidden="true"></i><span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4c25222a23622829293e2f3e292d38253a290c2b212d2520622f2321">[sanjsi0507@gmail.com]</a></span></p>
                                 <p><i class="fa fa-phone" aria-hidden="true"></i><span>+84 223 9000</span></p>
                             </div>
                         </div>
@@ -950,7 +953,7 @@
                                     <img src="img/bg-img/4.jpg" alt="">
                                 </div>
                                 <div class="post-content">
-                                    <a href="#" class="post-title">WA’s largest farming business on the market</a>
+                                    <a href="#" class="post-title">SJ largest farming business on the market</a>
                                     <div class="post-date">18 Aug 2018</div>
                                 </div>
                             </div>

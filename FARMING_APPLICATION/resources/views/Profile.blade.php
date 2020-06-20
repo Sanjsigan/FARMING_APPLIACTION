@@ -79,8 +79,8 @@
                         <div class="d-flex">
                             <div class="breadcrumb">
                                 <a href="index.html" class="breadcrumb-item"><i class="icon-home2 mr-2"></i> Home</a>
-                                <a href="user_pages_profile.html" class="breadcrumb-item">User pages</a>
-                                <span class="breadcrumb-item active">Profile</span>
+                            
+                          
                             </div>
 
                             <a href="#" class="header-elements-toggle text-default d-md-none"><i class="icon-more"></i></a>
@@ -176,7 +176,7 @@
 
                                             <div class="card">
                                                 <div class="card-header header-elements-sm-inline">
-                                                    <h6 class="card-title">Himalayan sunset</h6>
+                                                    <h6 class="card-title">Pethurushan</h6>
                                                     <div class="header-elements">
                                                         <span><i class="icon-checkmark-circle mr-2 text-success"></i> 49 minutes ago</span>
                                                         <div class="list-icons ml-3">
@@ -210,13 +210,12 @@
 
                                                     <h6 class="mb-3">
                                                         <i class="icon-comment-discussion mr-2"></i>
-                                                        <a href="#">Jason Ansley</a> commented:
+                                                        <a href="#">Mathunujan</a> commented:
                                                     </h6>
 
                                                     <blockquote class="blockquote blockquote-bordered py-2 pl-3 mb-0">
-                                                        <p class="mb-2 font-size-base">When suspiciously goodness labrador understood rethought yawned grew piously endearingly inarticulate oh goodness jeez trout distinct hence cobra despite taped laughed the much audacious less inside
-                                                            tiger groaned darn stuffily metaphoric unihibitedly inside cobra.</p>
-                                                        <footer class="blockquote-footer">Jason, <cite title="Source Title">10:39 am</cite></footer>
+                                                        <p class="mb-2 font-size-base">Rice flour is made from ground raw rice (glutinous or non-glutinous). It can be purchased in its ground form, or ground domestically using a blender, grain mills or traditional pounding methods. Rice flour is commonly used in countries where rice is the staple food to make other food products. In other countries, it can be used as a gluten-free alternative to wheat flour. </p>
+                                                        <footer class="blockquote-footer"> <cite title="Source Title">10:39 am</cite></footer>
                                                     </blockquote>
                                                 </div>
 
@@ -234,140 +233,12 @@
 
 
                                         <!-- Date stamp -->
-                                        <div class="timeline-date text-muted">
-                                            <i class="icon-history mr-2"></i> <span class="font-weight-semibold">Monday</span>, April 18
-                                        </div>
+                                      
                                         <!-- /date stamp -->
 
 
                                         <!-- Invoices -->
-                                        <div class="timeline-row">
-                                            <div class="timeline-icon">
-                                                <div class="bg-warning-400">
-                                                    <i class="icon-cash3"></i>
-                                                </div>
-                                            </div>
-
-                                            <div class="row">
-                                                <div class="col-lg-6">
-                                                    <div class="card border-left-3 border-left-danger rounded-left-0">
-                                                        <div class="card-body">
-                                                            <div class="d-sm-flex align-item-sm-center flex-sm-nowrap">
-                                                                <div>
-                                                                    <h6 class="font-weight-semibold">Leonardo Fellini</h6>
-                                                                    <ul class="list list-unstyled mb-0">
-                                                                        <li>Invoice #: &nbsp;0028</li>
-                                                                        <li>Issued on: <span class="font-weight-semibold">2015/01/25</span></li>
-                                                                    </ul>
-                                                                </div>
-
-                                                                <div class="text-sm-right mb-0 mt-3 mt-sm-0 ml-auto">
-                                                                    <h6 class="font-weight-semibold">$8,750</h6>
-                                                                    <ul class="list list-unstyled mb-0">
-                                                                        <li>Method: <span class="font-weight-semibold">SWIFT</span></li>
-                                                                        <li class="dropdown">
-                                                                            Status: &nbsp;
-                                                                            <a href="#" class="badge bg-danger-400 align-top dropdown-toggle" data-toggle="dropdown">Overdue</a>
-                                                                            <div class="dropdown-menu dropdown-menu-right">
-                                                                                <a href="#" class="dropdown-item active"><i class="icon-alert"></i> Overdue</a>
-                                                                                <a href="#" class="dropdown-item"><i class="icon-alarm"></i> Pending</a>
-                                                                                <a href="#" class="dropdown-item"><i class="icon-checkmark3"></i> Paid</a>
-                                                                                <div class="dropdown-divider"></div>
-                                                                                <a href="#" class="dropdown-item"><i class="icon-spinner2 spinner"></i> On hold</a>
-                                                                                <a href="#" class="dropdown-item"><i class="icon-cross2"></i> Canceled</a>
-                                                                            </div>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-
-                                                        <div class="card-footer d-sm-flex justify-content-sm-between align-items-sm-center">
-                                                            <span>
-																<span class="badge badge-mark border-danger mr-2"></span> Due:
-                                                            <span class="font-weight-semibold">2015/02/25</span>
-                                                            </span>
-
-                                                            <ul class="list-inline list-inline-condensed mb-0 mt-2 mt-sm-0">
-                                                                <li class="list-inline-item">
-                                                                    <a href="#" class="text-default"><i class="icon-eye8"></i></a>
-                                                                </li>
-                                                                <li class="list-inline-item dropdown">
-                                                                    <a href="#" class="text-default dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
-
-                                                                    <div class="dropdown-menu dropdown-menu-right">
-                                                                        <a href="#" class="dropdown-item"><i class="icon-printer"></i> Print invoice</a>
-                                                                        <a href="#" class="dropdown-item"><i class="icon-file-download"></i> Download invoice</a>
-                                                                        <div class="dropdown-divider"></div>
-                                                                        <a href="#" class="dropdown-item"><i class="icon-file-plus"></i> Edit invoice</a>
-                                                                        <a href="#" class="dropdown-item"><i class="icon-cross2"></i> Remove invoice</a>
-                                                                    </div>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                                <div class="col-lg-6">
-                                                    <div class="card border-left-3 border-left-success rounded-left-0">
-                                                        <div class="card-body">
-                                                            <div class="d-sm-flex align-item-sm-center flex-sm-nowrap">
-                                                                <div>
-                                                                    <h6 class="font-weight-semibold">Rebecca Manes</h6>
-                                                                    <ul class="list list-unstyled mb-0">
-                                                                        <li>Invoice #: &nbsp;0027</li>
-                                                                        <li>Issued on: <span class="font-weight-semibold">2015/02/24</span></li>
-                                                                    </ul>
-                                                                </div>
-
-                                                                <div class="text-sm-right mb-0 mt-3 mt-sm-0 ml-auto">
-                                                                    <h6 class="font-weight-semibold">$5,100</h6>
-                                                                    <ul class="list list-unstyled mb-0">
-                                                                        <li>Method: <span class="font-weight-semibold">Paypal</span></li>
-                                                                        <li class="dropdown">
-                                                                            Status: &nbsp;
-                                                                            <a href="#" class="badge bg-success-400 align-top dropdown-toggle" data-toggle="dropdown">Paid</a>
-                                                                            <div class="dropdown-menu dropdown-menu-right">
-                                                                                <a href="#" class="dropdown-item"><i class="icon-alert"></i> Overdue</a>
-                                                                                <a href="#" class="dropdown-item"><i class="icon-alarm"></i> Pending</a>
-                                                                                <a href="#" class="dropdown-item active"><i class="icon-checkmark3"></i> Paid</a>
-                                                                                <div class="dropdown-divider"></div>
-                                                                                <a href="#" class="dropdown-item"><i class="icon-spinner2 spinner"></i> On hold</a>
-                                                                                <a href="#" class="dropdown-item"><i class="icon-cross2"></i> Canceled</a>
-                                                                            </div>
-                                                                        </li>
-                                                                    </ul>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-
-                                                        <div class="card-footer d-sm-flex justify-content-sm-between align-items-sm-center">
-                                                            <span>
-																<span class="badge badge-mark border-success mr-2"></span> Due:
-                                                            <span class="font-weight-semibold">2015/03/24</span>
-                                                            </span>
-
-                                                            <ul class="list-inline list-inline-condensed mb-0 mt-2 mt-sm-0">
-                                                                <li class="list-inline-item">
-                                                                    <a href="#" class="text-default"><i class="icon-eye8"></i></a>
-                                                                </li>
-                                                                <li class="list-inline-item dropdown">
-                                                                    <a href="#" class="text-default dropdown-toggle" data-toggle="dropdown"><i class="icon-menu7"></i></a>
-
-                                                                    <div class="dropdown-menu dropdown-menu-right">
-                                                                        <a href="#" class="dropdown-item"><i class="icon-printer"></i> Print invoice</a>
-                                                                        <a href="#" class="dropdown-item"><i class="icon-file-download"></i> Download invoice</a>
-                                                                        <div class="dropdown-divider"></div>
-                                                                        <a href="#" class="dropdown-item"><i class="icon-file-plus"></i> Edit invoice</a>
-                                                                        <a href="#" class="dropdown-item"><i class="icon-cross2"></i> Remove invoice</a>
-                                                                    </div>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+              
                                         <!-- /invoices -->
 
 
@@ -381,7 +252,7 @@
 
                                             <div class="card">
                                                 <div class="card-header header-elements-inline">
-                                                    <h6 class="card-title">Conversation with James</h6>
+                                                    <h6 class="card-title">Conversation with pethu</h6>
                                                     <div class="header-elements">
                                                         <div class="list-icons ml-3">
                                                             <div class="dropdown">
@@ -408,7 +279,7 @@
 
                                                         <li class="media media-chat-item-reverse">
                                                             <div class="media-body">
-                                                                <div class="media-chat-item">Thus superb the tapir the wallaby blank frog execrably much since dalmatian by in hot. Uninspiringly arose mounted stared one curt safe</div>
+                                                                <div class="media-chat-item">Hi..</div>
                                                                 <div class="font-size-sm text-muted mt-2">Tue, 8:12 am <a href="#"><i class="icon-pin-alt ml-2 text-muted"></i></a></div>
                                                             </div>
 
@@ -427,14 +298,14 @@
                                                             </div>
 
                                                             <div class="media-body">
-                                                                <div class="media-chat-item">Tolerantly some understood this stubbornly after snarlingly frog far added insect into snorted more auspiciously heedless drunkenly jeez foolhardy oh.</div>
+                                                                <div class="media-chat-item">Yes Hiii...</div>
                                                                 <div class="font-size-sm text-muted mt-2">Wed, 4:20 pm <a href="#"><i class="icon-pin-alt ml-2 text-muted"></i></a></div>
                                                             </div>
                                                         </li>
 
                                                         <li class="media media-chat-item-reverse">
                                                             <div class="media-body">
-                                                                <div class="media-chat-item">Satisfactorily strenuously while sleazily dear frustratingly insect menially some shook far sardonic badger telepathic much jeepers immature much hey.</div>
+                                                                <div class="media-chat-item">Are you there</div>
                                                                 <div class="font-size-sm text-muted mt-2">2 hours ago <a href="#"><i class="icon-pin-alt ml-2 text-muted"></i></a></div>
                                                             </div>
 
@@ -453,7 +324,7 @@
                                                             </div>
 
                                                             <div class="media-body">
-                                                                <div class="media-chat-item">Grunted smirked and grew less but rewound much despite and impressive via alongside out and gosh easy manatee dear ineffective yikes.</div>
+                                                                <div class="media-chat-item">yess i am here now</div>
                                                                 <div class="font-size-sm text-muted mt-2">13 minutes ago <a href="#"><i class="icon-pin-alt ml-2 text-muted"></i></a></div>
                                                             </div>
                                                         </li>
@@ -526,10 +397,7 @@
                                                         <label>Username</label>
                                                         <input type="text" value="Eugene" class="form-control">
                                                     </div>
-                                                    <div class="col-md-6">
-                                                        <label>Full name</label>
-                                                        <input type="text" value="Kopyov" class="form-control">
-                                                    </div>
+                                                    
                                                 </div>
                                             </div>
 
@@ -569,17 +437,7 @@
                                                         <label>Email</label>
                                                         <input type="text" readonly="readonly" value="eugene@kopyov.com" class="form-control">
                                                     </div>
-                                                    <div class="col-md-6">
-                                                        <label>Your country</label>
-                                                        <select class="form-control form-control-select2" data-fouc>
-															<option value="germany" selected>Germany</option> 
-															<option value="france">France</option> 
-															<option value="spain">Spain</option> 
-															<option value="netherlands">Netherlands</option> 
-															<option value="other">...</option> 
-															<option value="uk">United Kingdom</option> 
-														</select>
-                                                    </div>
+                                                   
                                                 </div>
                                             </div>
 
@@ -591,11 +449,7 @@
                                                         <span class="form-text text-muted">+99-99-9999-9999</span>
                                                     </div>
 
-                                                    <div class="col-md-6">
-                                                        <label>Upload profile image</label>
-                                                        <input type="file" class="form-input-styled" data-fouc>
-                                                        <span class="form-text text-muted">Accepted formats: gif, png, jpg. Max file size 2Mb</span>
-                                                    </div>
+                                                    
                                                 </div>
                                             </div>
 
@@ -651,73 +505,6 @@
                                                 </div>
                                             </div>
 
-                                            <div class="form-group">
-                                                <div class="row">
-                                                    <div class="col-md-6">
-                                                        <label>Profile visibility</label>
-
-                                                        <div class="form-check">
-                                                            <label class="form-check-label">
-																<input type="radio" name="visibility" class="form-input-styled" checked data-fouc>
-																Visible to everyone
-															</label>
-                                                        </div>
-
-                                                        <div class="form-check">
-                                                            <label class="form-check-label">
-																<input type="radio" name="visibility" class="form-input-styled" data-fouc>
-																Visible to friends only
-															</label>
-                                                        </div>
-
-                                                        <div class="form-check">
-                                                            <label class="form-check-label">
-																<input type="radio" name="visibility" class="form-input-styled" data-fouc>
-																Visible to my connections only
-															</label>
-                                                        </div>
-
-                                                        <div class="form-check">
-                                                            <label class="form-check-label">
-																<input type="radio" name="visibility" class="form-input-styled" data-fouc>
-																Visible to my colleagues only
-															</label>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="col-md-6">
-                                                        <label>Notifications</label>
-
-                                                        <div class="form-check">
-                                                            <label class="form-check-label">
-																<input type="checkbox" class="form-input-styled" checked data-fouc>
-																Password expiration notification
-															</label>
-                                                        </div>
-
-                                                        <div class="form-check">
-                                                            <label class="form-check-label">
-																<input type="checkbox" class="form-input-styled" checked data-fouc>
-																New message notification
-															</label>
-                                                        </div>
-
-                                                        <div class="form-check">
-                                                            <label class="form-check-label">
-																<input type="checkbox" class="form-input-styled" checked data-fouc>
-																New task notification
-															</label>
-                                                        </div>
-
-                                                        <div class="form-check">
-                                                            <label class="form-check-label">
-																<input type="checkbox" class="form-input-styled">
-																New contact request notification
-															</label>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
 
                                             <div class="text-right">
                                                 <button type="submit" class="btn btn-primary">Save changes</button>
@@ -742,7 +529,7 @@
                                 <div class="card">
                                     <div class="card-body text-center">
                                         <div class="card-img-actions d-inline-block mb-3">
-                                            <img class="img-fluid rounded-circle" src="../../../../global_assets/images/demo/users/face11.jpg" width="170" height="170" alt="">
+                                            <img class="img-fluid rounded-circle" src="memimg/sanjsi.jpg" width="170" height="170" alt="">
                                             <div class="card-img-actions-overlay card-img rounded-circle">
                                                 <a href="#" class="btn btn-outline bg-white text-white border-white border-2 btn-icon rounded-round">
                                                     <i class="icon-plus3"></i>
@@ -753,14 +540,10 @@
                                             </div>
                                         </div>
 
-                                        <h6 class="font-weight-semibold mb-0">Hanna Dorman</h6>
-                                        <span class="d-block text-muted">UX/UI designer</span>
+                                        <h6 class="font-weight-semibold mb-0">Sanjsigan</h6>
+                                        <span class="d-block text-muted">Customer</span>
 
-                                        <div class="list-icons list-icons-extended mt-3">
-                                            <a href="#" class="list-icons-item" data-popup="tooltip" title="Google Drive" data-container="body"><i class="icon-google-drive"></i></a>
-                                            <a href="#" class="list-icons-item" data-popup="tooltip" title="Twitter" data-container="body"><i class="icon-twitter"></i></a>
-                                            <a href="#" class="list-icons-item" data-popup="tooltip" title="Github" data-container="body"><i class="icon-github"></i></a>
-                                        </div>
+                                       
                                     </div>
                                 </div>
                                 <!-- /user card -->
@@ -784,12 +567,7 @@
                                                     <i class="icon-user"></i> My profile
                                                 </a>
                                             </li>
-                                            <li class="nav-item">
-                                                <a href="#" class="nav-link">
-                                                    <i class="icon-cash3"></i> Balance
-                                                    <span class="text-muted font-size-sm font-weight-normal ml-auto">$1,430</span>
-                                                </a>
-                                            </li>
+                                            
                                             <li class="nav-item">
                                                 <a href="#" class="nav-link">
                                                     <i class="icon-tree7"></i> Connections
@@ -804,12 +582,7 @@
 
                                             <li class="nav-item-divider"></li>
 
-                                            <li class="nav-item">
-                                                <a href="#" class="nav-link">
-                                                    <i class="icon-calendar3"></i> Events
-                                                    <span class="badge bg-teal-400 badge-pill ml-auto">48</span>
-                                                </a>
-                                            </li>
+                                         
                                             <li class="nav-item">
                                                 <a href="#" class="nav-link">
                                                     <i class="icon-cog3"></i> Account settings
@@ -852,143 +625,12 @@
 
 
                                 <!-- Balance changes -->
-                                <div class="card">
-                                    <div class="card-header bg-transparent header-elements-inline">
-                                        <span class="card-title font-weight-semibold">Balance changes</span>
-                                        <div class="header-elements">
-                                            <span><i class="icon-arrow-down22 text-danger"></i> <span class="font-weight-semibold">- 29.4%</span></span>
-                                        </div>
-                                    </div>
-
-                                    <div class="card-body">
-                                        <div class="chart-container">
-                                            <div class="chart has-fixed-height" id="balance_statistics"></div>
-                                        </div>
-                                    </div>
-                                </div>
+                             
                                 <!-- /balance changes -->
 
 
                                 <!-- Latest connections -->
-                                <div class="card">
-                                    <div class="card-header bg-transparent header-elements-inline">
-                                        <span class="card-title font-weight-semibold">Latest connections</span>
-                                        <div class="header-elements">
-                                            <span class="badge bg-success badge-pill">+32</span>
-                                        </div>
-                                    </div>
-
-                                    <ul class="media-list media-list-linked my-2">
-                                        <li class="media font-weight-semibold border-0 py-2">Office staff</li>
-
-                                        <li>
-                                            <a href="#" class="media">
-                                                <div class="mr-3">
-                                                    <img src="../../../../global_assets/images/demo/users/face1.jpg" class="rounded-circle" width="40" height="40" alt="">
-                                                </div>
-                                                <div class="media-body">
-                                                    <div class="media-title font-weight-semibold">James Alexander</div>
-                                                    <span class="text-muted font-size-sm">UI/UX expert</span>
-                                                </div>
-                                                <div class="align-self-center ml-3">
-                                                    <span class="badge badge-mark bg-success border-success"></span>
-                                                </div>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a href="#" class="media">
-                                                <div class="mr-3">
-                                                    <img src="../../../../global_assets/images/demo/users/face2.jpg" class="rounded-circle" width="40" height="40" alt="">
-                                                </div>
-                                                <div class="media-body">
-                                                    <div class="media-title font-weight-semibold">Jeremy Victorino</div>
-                                                    <span class="text-muted font-size-sm">Senior designer</span>
-                                                </div>
-                                                <div class="align-self-center ml-3">
-                                                    <span class="badge badge-mark bg-danger border-danger"></span>
-                                                </div>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a href="#" class="media">
-                                                <div class="mr-3">
-                                                    <img src="../../../../global_assets/images/demo/users/face6.jpg" class="rounded-circle" width="40" height="40" alt="">
-                                                </div>
-                                                <div class="media-body">
-                                                    <div class="media-title"><span class="font-weight-semibold">Jordana Mills</span></div>
-                                                    <span class="text-muted">Sales consultant</span>
-                                                </div>
-                                                <div class="align-self-center ml-3">
-                                                    <span class="badge badge-mark bg-grey-300 border-grey-300"></span>
-                                                </div>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a href="#" class="media">
-                                                <div class="mr-3">
-                                                    <img src="../../../../global_assets/images/demo/users/face9.jpg" class="rounded-circle" width="40" height="40" alt="">
-                                                </div>
-                                                <div class="media-body">
-                                                    <div class="media-title"><span class="font-weight-semibold">William Miles</span></div>
-                                                    <span class="text-muted">SEO expert</span>
-                                                </div>
-                                                <div class="align-self-center ml-3">
-                                                    <span class="badge badge-mark bg-success border-success"></span>
-                                                </div>
-                                            </a>
-                                        </li>
-
-                                        <li class="media font-weight-semibold border-0 py-2">Partners</li>
-
-                                        <li>
-                                            <a href="#" class="media">
-                                                <div class="mr-3">
-                                                    <img src="../../../../global_assets/images/demo/users/face3.jpg" class="rounded-circle" width="40" height="40" alt="">
-                                                </div>
-                                                <div class="media-body">
-                                                    <div class="media-title font-weight-semibold">Margo Baker</div>
-                                                    <span class="text-muted font-size-sm">Google</span>
-                                                </div>
-                                                <div class="align-self-center ml-3">
-                                                    <span class="badge badge-mark bg-success border-success"></span>
-                                                </div>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a href="#" class="media">
-                                                <div class="mr-3">
-                                                    <img src="../../../../global_assets/images/demo/users/face4.jpg" class="rounded-circle" width="40" height="40" alt="">
-                                                </div>
-                                                <div class="media-body">
-                                                    <div class="media-title font-weight-semibold">Beatrix Diaz</div>
-                                                    <span class="text-muted font-size-sm">Facebook</span>
-                                                </div>
-                                                <div class="align-self-center ml-3">
-                                                    <span class="badge badge-mark bg-warning-400 border-warning-400"></span>
-                                                </div>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a href="#" class="media">
-                                                <div class="mr-3">
-                                                    <img src="../../../../global_assets/images/demo/users/face5.jpg" class="rounded-circle" width="40" height="40" alt="">
-                                                </div>
-                                                <div class="media-body">
-                                                    <div class="media-title font-weight-semibold">Richard Vango</div>
-                                                    <span class="text-muted font-size-sm">Microsoft</span>
-                                                </div>
-                                                <div class="align-self-center ml-3">
-                                                    <span class="badge badge-mark bg-grey-300 border-grey-300"></span>
-                                                </div>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
+                             
                                 <!-- /latest connections -->
 
                             </div>

@@ -41,4 +41,28 @@ Route::get('/', function () {
 Route::get('/profile', function () {
     return view('Profile');
 });
+Route::get('/signup', function () {
+    return view('Signup');
+});
+Route::get('/viewfruits', function () {
+    return view('ViewFruits');
+});
+Route::get('/viewpaddy', function () {
+    return view('ViewPaddy');
+});
+Route::get('/viewtuber', function () {
+    return view('ViewTuber');
+});
+Route::get('/ViewVegetable', function () {
+    return view('viewvegetable');
+});
+
+
+Route::view('/signup', "Signup");
+Route::view('/login', "login");
+
+Route::get('/store', "UserController@store");
+Route::post('/logs', "UserController@logs");
+
+
 

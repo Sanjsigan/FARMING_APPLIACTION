@@ -662,40 +662,40 @@
             <div class="page-header page-header-light">
 
 
-                <div class="breadcrumb-line breadcrumb-line-light header-elements-md-inline">
+<div class="breadcrumb-line breadcrumb-line-light header-elements-md-inline">
 
-                    <div class="header-elements d-none">
-                        <div class="breadcrumb justify-content-center">
-                            <a href="#" class="breadcrumb-elements-item">
-                               View Paddy products
-                            </a>
+    <div class="header-elements d-none">
+        <div class="breadcrumb justify-content-center">
+            <a href="/viewpaddy" class="breadcrumb-elements-item">
+               View Paddy products
+            </a>
 
-                            <div class="breadcrumb-elements-item dropdown p-0">
-                                <a href="#" class="breadcrumb-elements-item ">
-                                View Vegetables Products
-                                </a>
+            <div class="breadcrumb-elements-item dropdown p-0">
+                <a href="/viewvegetable" class="breadcrumb-elements-item ">
+                View Vegetables Products
+                </a>
 
 
-                            </div>
-                            <div class="breadcrumb-elements-item dropdown p-0">
-                                <a href="#" class="breadcrumb-elements-item ">
-                                View Tuber Products
-                                </a>
-                            </div>
-                            <div class="breadcrumb-elements-item dropdown p-0">
-                                <a href="#" class="breadcrumb-elements-item ">
-                                View Fruit Products
-                                </a>
-                            </div>
-                            <div class="breadcrumb-elements-item dropdown p-0">
-                                <a href="#" class="breadcrumb-elements-item ">
-                                View Seeds
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
+            <div class="breadcrumb-elements-item dropdown p-0">
+                <a href="/viewtuber" class="breadcrumb-elements-item ">
+                View Tuber Products
+                </a>
+            </div>
+            <div class="breadcrumb-elements-item dropdown p-0">
+                <a href="/viewfruits" class="breadcrumb-elements-item ">
+                View Fruit Products
+                </a>
+            </div>
+            <div class="breadcrumb-elements-item dropdown p-0">
+                <a href="/Seeds" class="breadcrumb-elements-item ">
+                View Seeds
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
             <!-- /page header -->
 
 

@@ -666,29 +666,29 @@
 
                     <div class="header-elements d-none">
                         <div class="breadcrumb justify-content-center">
-                            <a href="#" class="breadcrumb-elements-item">
+                            <a href="/viewpaddy" class="breadcrumb-elements-item">
                                View Paddy products
                             </a>
 
                             <div class="breadcrumb-elements-item dropdown p-0">
-                                <a href="#" class="breadcrumb-elements-item ">
+                                <a href="/viewvegetable" class="breadcrumb-elements-item ">
                                 View Vegetables Products
                                 </a>
 
 
                             </div>
                             <div class="breadcrumb-elements-item dropdown p-0">
-                                <a href="#" class="breadcrumb-elements-item ">
+                                <a href="/viewtuber" class="breadcrumb-elements-item ">
                                 View Tuber Products
                                 </a>
                             </div>
                             <div class="breadcrumb-elements-item dropdown p-0">
-                                <a href="#" class="breadcrumb-elements-item ">
+                                <a href="/viewfruits" class="breadcrumb-elements-item ">
                                 View Fruit Products
                                 </a>
                             </div>
                             <div class="breadcrumb-elements-item dropdown p-0">
-                                <a href="#" class="breadcrumb-elements-item ">
+                                <a href="/Seeds" class="breadcrumb-elements-item ">
                                 View Seeds
                                 </a>
                             </div>
@@ -723,10 +723,7 @@
                                             <h6>Showing 1–9 of 72 results</h6>
                                         </div>
 
-                                        <div class="produtc-view-mode">
-                                            <a href="#"><i class="fa fa-th"></i></a>
-                                            <a href="#"><i class="fa fa-list-ul"></i></a>
-                                        </div>
+                                   
                                     </div>
                                 </div>
                             </div>
@@ -734,81 +731,8 @@
 
                                 <div class="col-12 col-md-4 col-lg-3">
 
-                                    <div class="shopping-cart mb-50">
-                                        <h5 class="mb-30">Shopping Cart</h5>
+                             
 
-                                        <div class="cart-table clearfix">
-                                            <table class="table table-responsive">
-
-                                                <tbody>
-
-                                                    <tr>
-                                                        <td class="cart_product_img">
-                                                            <a href="#"><img src="https://colorlib.com/preview/theme/farmie/img/bg-img/34.jpg" alt="Product"></a>
-                                                        </td>
-                                                        <td class="cart_product_desc">
-                                                            <p>Bayonne Ham</p>
-                                                            <h6>1 x $39.99</h6>
-                                                        </td>
-                                                        <td class="pro-close">
-                                                            <a href="#"><i class="icon_close"></i></a>
-                                                        </td>
-                                                    </tr>
-
-                                                    <tr>
-                                                        <td class="cart_product_img">
-                                                            <a href="#"><img src="img/bg-img/35.jpg" alt="Product"></a>
-                                                        </td>
-                                                        <td class="cart_product_desc">
-                                                            <p>Bayonne Ham</p>
-                                                            <h6>1 x $39.99</h6>
-                                                        </td>
-                                                        <td class="pro-close">
-                                                            <a href="#"><i class="icon_close"></i></a>
-                                                        </td>
-                                                    </tr>
-
-                                                    <tr>
-                                                        <td class="cart_product_img">
-                                                            <a href="#"><img src="img/bg-img/36.jpg" alt="Product"></a>
-                                                        </td>
-                                                        <td class="cart_product_desc">
-                                                            <p>Bayonne Ham</p>
-                                                            <h6>1 x $39.99</h6>
-                                                        </td>
-                                                        <td class="pro-close">
-                                                            <a href="#"><i class="icon_close"></i></a>
-                                                        </td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                        </div>
-
-                                        <div class="cart-summary d-flex align-items-center justify-content-between">
-                                            <div class="sub-total">
-                                                <h6>SUBTOTAL</h6>
-                                            </div>
-                                            <div class="total-price">
-                                                <h6>$52.99</h6>
-                                            </div>
-                                        </div>
-
-                                        <a href="#" class="btn famie-btn checkout-btn mt-30 w-100">Checkout</a>
-                                    </div>
-
-                                    <div class="single-widget-area">
-
-                                        <h5 class="widget-title">Catagories</h5>
-
-                                        <ul class="cata-list shop-page">
-                                            <li><a href="#">All products (72)</a></li>
-                                            <li><a href="#">Freshy Fruits (20)</a></li>
-                                            <li><a href="#">Rice &amp; Corn (15)</a></li>
-                                            <li><a href="#">Meat &amp; Eggs (20)</a></li>
-                                            <li><a href="#">Milk &amp; Cheese (15)</a></li>
-                                            <li><a href="#">Others (2)</a></li>
-                                        </ul>
-                                    </div>
 
                                     <div class="single-widget-area">
 
@@ -835,20 +759,6 @@
                                             <li><a href="#">$100.00+</a></li>
                                         </ul>
                                     </div>
-
-                                    <div class="single-widget-area">
-
-                                        <h5 class="widget-title">Tags</h5>
-
-                                        <ul class="famie-tags">
-                                            <li><a href="#">All product</a></li>
-                                            <li><a href="#">Freshy Fruit</a></li>
-                                            <li><a href="#">Sweet Corn</a></li>
-                                            <li><a href="#">Chicken</a></li>
-                                            <li><a href="#">Organic</a></li>
-                                            <li><a href="#">Meat</a></li>
-                                        </ul>
-                                    </div>
                                 </div>
 
                                 <div class="col-12 col-md-8 col-lg-9">
@@ -858,7 +768,7 @@
                                             <div class="single-product-area mb-50">
 
                                                 <div class="product-thumbnail">
-                                                    <img src="https://colorlib.com/preview/theme/farmie/img/bg-img/p1.jpg" alt="">
+                                                    <img src="seedsimg/chia.jpg" alt="">
 
                                                     <span class="product-tags">Hot</span>
 
@@ -874,26 +784,22 @@
                                                         <thead>
                                                             <tr>
 
-                                                                <th scope="col">Last</th>
-                                                                <th scope="col">Handle</th>
+                                                                <th scope="col">Derails</th>
+                                                                <th scope="col"></th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
                                                             <tr>
 
-                                                                <td>Otto</td>
-                                                                <td>@mdo</td>
+                                                                <td>Seeds Name</td>
+                                                                <td>Chia</td>
                                                             </tr>
                                                             <tr>
 
-                                                                <td>Thornton</td>
-                                                                <td>@fat</td>
+                                                                <td>Price</td>
+                                                                <td>RS 900/=</td>
                                                             </tr>
-                                                            <tr>
-
-                                                                <td>the Bird</td>
-                                                                <td>@twitter</td>
-                                                            </tr>
+                                                         
                                                         </tbody>
                                                     </table>
 
@@ -905,7 +811,7 @@
                                             <div class="single-product-area mb-50">
 
                                                 <div class="product-thumbnail">
-                                                    <img src="img/bg-img/p2.jpg" alt="">
+                                                    <img src="seedsimg/flax.jpg" alt="">
 
                                                     <div class="product-meta-data">
                                                         <a href="#" data-toggle="tooltip" data-placement="top" title="Favourite"><i class="icon_heart_alt"></i></a>
@@ -915,30 +821,26 @@
                                                 </div>
 
                                                 <div class="product-desc text-center pt-4">
-                                                    <table class="table table-dark">
+                                                <table class="table table-dark">
                                                         <thead>
                                                             <tr>
 
-                                                                <th scope="col">Last</th>
-                                                                <th scope="col">Handle</th>
+                                                                <th scope="col">Derails</th>
+                                                                <th scope="col"></th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
                                                             <tr>
 
-                                                                <td>Otto</td>
-                                                                <td>@mdo</td>
+                                                                <td>Seeds Name</td>
+                                                                <td>Flax</td>
                                                             </tr>
                                                             <tr>
 
-                                                                <td>Thornton</td>
-                                                                <td>@fat</td>
+                                                                <td>Price</td>
+                                                                <td>RS 590/=</td>
                                                             </tr>
-                                                            <tr>
-
-                                                                <td>the Bird</td>
-                                                                <td>@twitter</td>
-                                                            </tr>
+                                                         
                                                         </tbody>
                                                     </table>
                                                 </div>
@@ -949,7 +851,7 @@
                                             <div class="single-product-area mb-50">
 
                                                 <div class="product-thumbnail">
-                                                    <img src="img/bg-img/p3.jpg" alt="">
+                                                    <img src="seedsimg/hemp.jpg" alt="">
 
                                                     <div class="product-meta-data">
                                                         <a href="#" data-toggle="tooltip" data-placement="top" title="Favourite"><i class="icon_heart_alt"></i></a>
@@ -959,30 +861,26 @@
                                                 </div>
 
                                                 <div class="product-desc text-center pt-4">
-                                                    <table class="table table-dark">
+                                                <table class="table table-dark">
                                                         <thead>
                                                             <tr>
 
-                                                                <th scope="col">Last</th>
-                                                                <th scope="col">Handle</th>
+                                                                <th scope="col">Derails</th>
+                                                                <th scope="col"></th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
                                                             <tr>
 
-                                                                <td>Otto</td>
-                                                                <td>@mdo</td>
+                                                                <td>Seeds Name</td>
+                                                                <td>Hemb</td>
                                                             </tr>
                                                             <tr>
 
-                                                                <td>Thornton</td>
-                                                                <td>@fat</td>
+                                                                <td>Price</td>
+                                                                <td>RS 450/=</td>
                                                             </tr>
-                                                            <tr>
-
-                                                                <td>the Bird</td>
-                                                                <td>@twitter</td>
-                                                            </tr>
+                                                         
                                                         </tbody>
                                                     </table>
                                                 </div>
@@ -993,7 +891,7 @@
                                             <div class="single-product-area mb-50">
 
                                                 <div class="product-thumbnail">
-                                                    <img src="img/bg-img/p4.jpg" alt="">
+                                                    <img src="seedsimg/pomegranate.jpg" alt="">
 
                                                     <span class="product-tags bg-danger">Sale</span>
 
@@ -1005,30 +903,26 @@
                                                 </div>
 
                                                 <div class="product-desc text-center pt-4">
-                                                    <table class="table table-dark">
+                                                <table class="table table-dark">
                                                         <thead>
                                                             <tr>
 
-                                                                <th scope="col">Last</th>
-                                                                <th scope="col">Handle</th>
+                                                                <th scope="col">Derails</th>
+                                                                <th scope="col"></th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
                                                             <tr>
 
-                                                                <td>Otto</td>
-                                                                <td>@mdo</td>
+                                                                <td>Seeds Name</td>
+                                                                <td>Pomegranate</td>
                                                             </tr>
                                                             <tr>
 
-                                                                <td>Thornton</td>
-                                                                <td>@fat</td>
+                                                                <td>Price</td>
+                                                                <td>RS 1200/=</td>
                                                             </tr>
-                                                            <tr>
-
-                                                                <td>the Bird</td>
-                                                                <td>@twitter</td>
-                                                            </tr>
+                                                         
                                                         </tbody>
                                                     </table>
                                                 </div>
@@ -1039,7 +933,7 @@
                                             <div class="single-product-area mb-50">
 
                                                 <div class="product-thumbnail">
-                                                    <img src="img/bg-img/p5.jpg" alt="">
+                                                    <img src="seedsimg/poppy.jpg" alt="">
 
                                                     <div class="product-meta-data">
                                                         <a href="#" data-toggle="tooltip" data-placement="top" title="Favourite"><i class="icon_heart_alt"></i></a>
@@ -1049,30 +943,26 @@
                                                 </div>
 
                                                 <div class="product-desc text-center pt-4">
-                                                    <table class="table table-dark">
+                                                <table class="table table-dark">
                                                         <thead>
                                                             <tr>
 
-                                                                <th scope="col">Last</th>
-                                                                <th scope="col">Handle</th>
+                                                                <th scope="col">Derails</th>
+                                                                <th scope="col"></th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
                                                             <tr>
 
-                                                                <td>Otto</td>
-                                                                <td>@mdo</td>
+                                                                <td>Seeds Name</td>
+                                                                <td>Poppy</td>
                                                             </tr>
                                                             <tr>
 
-                                                                <td>Thornton</td>
-                                                                <td>@fat</td>
+                                                                <td>Price</td>
+                                                                <td>RS 1230/=</td>
                                                             </tr>
-                                                            <tr>
-
-                                                                <td>the Bird</td>
-                                                                <td>@twitter</td>
-                                                            </tr>
+                                                         
                                                         </tbody>
                                                     </table>
                                                 </div>
@@ -1083,7 +973,7 @@
                                             <div class="single-product-area mb-50">
 
                                                 <div class="product-thumbnail">
-                                                    <img src="img/bg-img/p6.jpg" alt="">
+                                                    <img src="seedsimg/pumkin.jpg" alt="">
 
                                                     <div class="product-meta-data">
                                                         <a href="#" data-toggle="tooltip" data-placement="top" title="Favourite"><i class="icon_heart_alt"></i></a>
@@ -1093,304 +983,34 @@
                                                 </div>
 
                                                 <div class="product-desc text-center pt-4">
-                                                    <table class="table table-dark">
+                                                <table class="table table-dark">
                                                         <thead>
                                                             <tr>
 
-                                                                <th scope="col">Last</th>
-                                                                <th scope="col">Handle</th>
+                                                                <th scope="col">Derails</th>
+                                                                <th scope="col"></th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
                                                             <tr>
 
-                                                                <td>Otto</td>
-                                                                <td>@mdo</td>
+                                                                <td>Seeds Name</td>
+                                                                <td>Pumkin</td>
                                                             </tr>
                                                             <tr>
 
-                                                                <td>Thornton</td>
-                                                                <td>@fat</td>
+                                                                <td>Price</td>
+                                                                <td>RS 1300/=</td>
                                                             </tr>
-                                                            <tr>
-
-                                                                <td>the Bird</td>
-                                                                <td>@twitter</td>
-                                                            </tr>
+                                                         
                                                         </tbody>
+                                                        
                                                     </table>
                                                 </div>
                                             </div>
                                         </div>
 
-                                        <div class="col-12 col-sm-6 col-lg-4">
-                                            <div class="single-product-area mb-50">
-
-                                                <div class="product-thumbnail">
-                                                    <img src="img/bg-img/p7.jpg" alt="">
-
-                                                    <div class="product-meta-data">
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Favourite"><i class="icon_heart_alt"></i></a>
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="icon_cart_alt"></i></a>
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><i class="arrow_left-right_alt"></i></a>
-                                                    </div>
-                                                </div>
-
-                                                <div class="product-desc text-center pt-4">
-                                                    <table class="table table-dark">
-                                                        <thead>
-                                                            <tr>
-
-                                                                <th scope="col">Last</th>
-                                                                <th scope="col">Handle</th>
-                                                            </tr>
-                                                        </thead>
-                                                        <tbody>
-                                                            <tr>
-
-                                                                <td>Otto</td>
-                                                                <td>@mdo</td>
-                                                            </tr>
-                                                            <tr>
-
-                                                                <td>Thornton</td>
-                                                                <td>@fat</td>
-                                                            </tr>
-                                                            <tr>
-
-                                                                <td>the Bird</td>
-                                                                <td>@twitter</td>
-                                                            </tr>
-                                                        </tbody>
-                                                    </table>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-12 col-sm-6 col-lg-4">
-                                            <div class="single-product-area mb-50">
-
-                                                <div class="product-thumbnail">
-                                                    <img src="img/bg-img/p8.jpg" alt="">
-
-                                                    <span class="product-tags">Hot</span>
-
-                                                    <div class="product-meta-data">
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Favourite"><i class="icon_heart_alt"></i></a>
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="icon_cart_alt"></i></a>
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><i class="arrow_left-right_alt"></i></a>
-                                                    </div>
-                                                </div>
-
-                                                <div class="product-desc text-center pt-4">
-                                                    <table class="table table-dark">
-                                                        <thead>
-                                                            <tr>
-
-                                                                <th scope="col">Last</th>
-                                                                <th scope="col">Handle</th>
-                                                            </tr>
-                                                        </thead>
-                                                        <tbody>
-                                                            <tr>
-
-                                                                <td>Otto</td>
-                                                                <td>@mdo</td>
-                                                            </tr>
-                                                            <tr>
-
-                                                                <td>Thornton</td>
-                                                                <td>@fat</td>
-                                                            </tr>
-                                                            <tr>
-
-                                                                <td>the Bird</td>
-                                                                <td>@twitter</td>
-                                                            </tr>
-                                                        </tbody>
-                                                    </table>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-12 col-sm-6 col-lg-4">
-                                            <div class="single-product-area mb-50">
-
-                                                <div class="product-thumbnail">
-                                                    <img src="img/bg-img/p9.jpg" alt="">
-
-                                                    <div class="product-meta-data">
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Favourite"><i class="icon_heart_alt"></i></a>
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="icon_cart_alt"></i></a>
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><i class="arrow_left-right_alt"></i></a>
-                                                    </div>
-                                                </div>
-
-                                                <div class="product-desc text-center pt-4">
-                                                    <table class="table table-dark">
-                                                        <thead>
-                                                            <tr>
-
-                                                                <th scope="col">Last</th>
-                                                                <th scope="col">Handle</th>
-                                                            </tr>
-                                                        </thead>
-                                                        <tbody>
-                                                            <tr>
-
-                                                                <td>Otto</td>
-                                                                <td>@mdo</td>
-                                                            </tr>
-                                                            <tr>
-
-                                                                <td>Thornton</td>
-                                                                <td>@fat</td>
-                                                            </tr>
-                                                            <tr>
-
-                                                                <td>the Bird</td>
-                                                                <td>@twitter</td>
-                                                            </tr>
-                                                        </tbody>
-                                                    </table>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-12 col-sm-6 col-lg-4">
-                                            <div class="single-product-area mb-50">
-
-                                                <div class="product-thumbnail">
-                                                    <img src="img/bg-img/p10.jpg" alt="">
-
-                                                    <div class="product-meta-data">
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Favourite"><i class="icon_heart_alt"></i></a>
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="icon_cart_alt"></i></a>
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><i class="arrow_left-right_alt"></i></a>
-                                                    </div>
-                                                </div>
-
-                                                <div class="product-desc text-center pt-4">
-                                                    <table class="table table-dark">
-                                                        <thead>
-                                                            <tr>
-
-                                                                <th scope="col">Last</th>
-                                                                <th scope="col">Handle</th>
-                                                            </tr>
-                                                        </thead>
-                                                        <tbody>
-                                                            <tr>
-
-                                                                <td>Otto</td>
-                                                                <td>@mdo</td>
-                                                            </tr>
-                                                            <tr>
-
-                                                                <td>Thornton</td>
-                                                                <td>@fat</td>
-                                                            </tr>
-                                                            <tr>
-
-                                                                <td>the Bird</td>
-                                                                <td>@twitter</td>
-                                                            </tr>
-                                                        </tbody>
-                                                    </table>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-12 col-sm-6 col-lg-4">
-                                            <div class="single-product-area mb-50">
-
-                                                <div class="product-thumbnail">
-                                                    <img src="img/bg-img/p11.jpg" alt="">
-
-                                                    <div class="product-meta-data">
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Favourite"><i class="icon_heart_alt"></i></a>
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="icon_cart_alt"></i></a>
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><i class="arrow_left-right_alt"></i></a>
-                                                    </div>
-                                                </div>
-
-                                                <div class="product-desc text-center pt-4">
-                                                    <table class="table table-dark">
-                                                        <thead>
-                                                            <tr>
-
-                                                                <th scope="col">Last</th>
-                                                                <th scope="col">Handle</th>
-                                                            </tr>
-                                                        </thead>
-                                                        <tbody>
-                                                            <tr>
-
-                                                                <td>Otto</td>
-                                                                <td>@mdo</td>
-                                                            </tr>
-                                                            <tr>
-
-                                                                <td>Thornton</td>
-                                                                <td>@fat</td>
-                                                            </tr>
-                                                            <tr>
-
-                                                                <td>the Bird</td>
-                                                                <td>@twitter</td>
-                                                            </tr>
-                                                        </tbody>
-                                                    </table>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-12 col-sm-6 col-lg-4">
-                                            <div class="single-product-area mb-50">
-
-                                                <div class="product-thumbnail">
-                                                    <img src="img/bg-img/p12.jpg" alt="">
-
-                                                    <span class="product-tags bg-danger">Sale</span>
-
-                                                    <div class="product-meta-data">
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Favourite"><i class="icon_heart_alt"></i></a>
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Add To Cart"><i class="icon_cart_alt"></i></a>
-                                                        <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><i class="arrow_left-right_alt"></i></a>
-                                                    </div>
-                                                </div>
-
-                                                <div class="product-desc text-center pt-4">
-                                                    <table class="table table-dark">
-                                                        <thead>
-                                                            <tr>
-
-                                                                <th scope="col">Last</th>
-                                                                <th scope="col">Handle</th>
-                                                            </tr>
-                                                        </thead>
-                                                        <tbody>
-                                                            <tr>
-
-                                                                <td>Otto</td>
-                                                                <td>@mdo</td>
-                                                            </tr>
-                                                            <tr>
-
-                                                                <td>Thornton</td>
-                                                                <td>@fat</td>
-                                                            </tr>
-                                                            <tr>
-
-                                                                <td>the Bird</td>
-                                                                <td>@twitter</td>
-                                                            </tr>
-                                                        </tbody>
-                                                    </table>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                      
 
                                     <nav>
                                         <ul class="pagination mb-0 mt-50">
@@ -1407,99 +1027,99 @@
 
                     <footer class="footer-area">
 
-                        <div class="main-footer bg-img bg-overlay section-padding-80-0" style="background-image: url(img/bg-img/3.jpg);">
-                            <div class="container">
-                                <div class="row">
+<div class="main-footer bg-img bg-overlay section-padding-80-0" style="background-image: url(img/bg-img/3.jpg);">
+    <div class="container">
+        <div class="row">
 
-                                    <div class="col-12 col-sm-6 col-lg-3">
-                                        <div class="footer-widget mb-80">
-                                            <a href="#" class="foo-logo d-block mb-30"><img src="img/core-img/logo2.png" alt=""></a>
-                                            <p>Lorem ipsum dolor sit amet, consecte stare adipiscing elit. In act honcus risus atiner Pellentesque risus.</p>
-                                            <div class="contact-info">
-                                                <p><i class="fa fa-map-pin" aria-hidden="true"></i><span>120 Raymond Rd, New York</span></p>
-                                                <p><i class="fa fa-envelope" aria-hidden="true"></i><span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4c25222a23622829293e2f3e292d38253a290c2b212d2520622f2321">[email&#160;protected]</a></span></p>
-                                                <p><i class="fa fa-phone" aria-hidden="true"></i><span>+84 223 9000</span></p>
-                                            </div>
-                                        </div>
-                                    </div>
+            <div class="col-12 col-sm-6 col-lg-3">
+                <div class="footer-widget mb-80">
+                    <a href="#" class="foo-logo d-block mb-30"><img src="img/core-img/logo2.png" alt=""></a>
+                   
+                    <div class="contact-info">
+                        <p><i class="fa fa-map-pin" aria-hidden="true"></i><span>120 Raymond Rd, New York</span></p>
+                        <p><i class="fa fa-envelope" aria-hidden="true"></i><span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="4c25222a23622829293e2f3e292d38253a290c2b212d2520622f2321">[sanjsi0507@gmail.com]</a></span></p>
+                        <p><i class="fa fa-phone" aria-hidden="true"></i><span>+84 223 9000</span></p>
+                    </div>
+                </div>
+            </div>
 
-                                    <div class="col-12 col-sm-6 col-lg-3">
-                                        <div class="footer-widget mb-80">
-                                            <h5 class="widget-title">QUICK LINK</h5>
+            <div class="col-12 col-sm-6 col-lg-3">
+                <div class="footer-widget mb-80">
+                    <h5 class="widget-title">QUICK LINK</h5>
 
-                                            <nav class="footer-widget-nav">
-                                                <ul>
-                                                    <li><a href="#">Purchase</a></li>
-                                                    <li><a href="#">Marker Details</a></li>
-                                                    <li><a href="#">Partners</a></li>
-                                                    <li><a href="#">Reseantly Added</a></li>
+                    <nav class="footer-widget-nav">
+                        <ul>
+                            <li><a href="#">Purchase</a></li>                          
+                            <li><a href="#">Marker Details</a></li>
+                            <li><a href="#">Partners</a></li>
+                            <li><a href="#">Reseantly Added</a></li>
+               
+                        </ul>
+                    </nav>
+                </div>
+            </div>
 
-                                                </ul>
-                                            </nav>
-                                        </div>
-                                    </div>
+            <div class="col-12 col-sm-6 col-lg-3">
+                <div class="footer-widget mb-80">
+                    <h5 class="widget-title">RECENT NEWS</h5>
 
-                                    <div class="col-12 col-sm-6 col-lg-3">
-                                        <div class="footer-widget mb-80">
-                                            <h5 class="widget-title">RECENT NEWS</h5>
-
-                                            <div class="single-recent-blog d-flex align-items-center">
-                                                <div class="post-thumbnail">
-                                                    <img src="img/bg-img/4.jpg" alt="">
-                                                </div>
-                                                <div class="post-content">
-                                                    <a href="#" class="post-title">WA’s largest farming business on the market</a>
-                                                    <div class="post-date">18 Aug 2018</div>
-                                                </div>
-                                            </div>
-
-                                            <div class="single-recent-blog d-flex align-items-center">
-                                                <div class="post-thumbnail">
-                                                    <img src="img/bg-img/5.jpg" alt="">
-                                                </div>
-                                                <div class="post-content">
-                                                    <a href="#" class="post-title">Beef retail prices hit a record</a>
-                                                    <div class="post-date">18 Aug 2018</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-12 col-sm-6 col-lg-3">
-                                        <div class="footer-widget mb-80">
-                                            <h5 class="widget-title">STAY CONNECTED</h5>
-
-                                            <div class="footer-social-info">
-                                                <a href="#">
-                                                    <i class="fa fa-facebook-official"></i>
-                                                    <span>Facebook</span>
-                                                </a>
-                                                <a href="#">
-                                                    <i class="fa fa-twitter" aria-hidden="true"></i>
-                                                    <span>Twitter</span>
-                                                </a>
-                                                <a href="#">
-                                                    <i class="fa fa-pinterest" aria-hidden="true"></i>
-                                                    <span>Pinterest</span>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                    <div class="single-recent-blog d-flex align-items-center">
+                        <div class="post-thumbnail">
+                            <img src="img/bg-img/4.jpg" alt="">
                         </div>
-
-                        <div class="copywrite-area">
-                            <div class="container">
-                                <div class="copywrite-text">
-                                    <div class="row align-items-center">
-
-
-                                    </div>
-                                </div>
-                            </div>
+                        <div class="post-content">
+                            <a href="#" class="post-title">SJ largest farming business on the market</a>
+                            <div class="post-date">18 Aug 2018</div>
                         </div>
-                    </footer>
+                    </div>
+
+                    <div class="single-recent-blog d-flex align-items-center">
+                        <div class="post-thumbnail">
+                            <img src="img/bg-img/5.jpg" alt="">
+                        </div>
+                        <div class="post-content">
+                            <a href="#" class="post-title">Beef retail prices hit a record</a>
+                            <div class="post-date">18 Aug 2018</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-12 col-sm-6 col-lg-3">
+                <div class="footer-widget mb-80">
+                    <h5 class="widget-title">STAY CONNECTED</h5>
+
+                    <div class="footer-social-info">
+                        <a href="#">
+                        <i class="fa fa-facebook-official"></i>
+                            <span>Facebook</span>
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-twitter" aria-hidden="true"></i>
+                            <span>Twitter</span>
+                        </a>
+                        <a href="#">
+                            <i class="fa fa-pinterest" aria-hidden="true"></i>
+                            <span>Pinterest</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="copywrite-area">
+    <div class="container">
+        <div class="copywrite-text">
+            <div class="row align-items-center">
+
+
+            </div>
+        </div>
+    </div>
+</div>
+</footer>
 
 
                     <!-- /content area -->
